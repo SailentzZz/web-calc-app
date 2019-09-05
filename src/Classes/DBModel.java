@@ -13,15 +13,20 @@ import org.apache.log4j.Logger;
 public class DBModel {
 	
 	Logger logger = Logger.getLogger(DBModel.class);
+	static String username = "gsbnwtwyresjgv";
+	static String password = "0a7151663758355cdd7e8672227a4e70c4898edce40251b14801536dd3d19103";
+	static String host = "ec2-46-137-187-23.eu-west-1.compute.amazonaws.com";
+	static String db = "d2ftsrjei473tl";
+	
 	
 	public User getUserValidation(String loging, String password) {		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/WebCalc", "postgres", "svd1025432");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
 			logger.info("Connection");
 			
-			PreparedStatement statement = connection.prepareStatement("SELECT id, \"Name\", logging, password, email\r\n" + 
-					"  FROM public.\"UserInfo\" where logging = ? and password = ?;");
+			PreparedStatement statement = connection.prepareStatement("SELECT id, Name, logging, password, email\r\n" + 
+					"  FROM UserInfo where logging = ? and password = ?;");
 			statement.setString(1, loging);
 			statement.setString(2, password);
 			ResultSet resultSet = statement.executeQuery();
@@ -52,20 +57,20 @@ public class DBModel {
 	public boolean putUserDB(String name, String login, String password, String email) {
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/WebCalc", "postgres", "svd1025432");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
 			logger.info("Connection");
 			
-			PreparedStatement statement1 = connection.prepareStatement("SELECT id, \"Name\", logging, password, email\r\n" + 
-					"  FROM public.\"UserInfo\" WHERE \"Name\" = ? and logging = ? and email = ?;");
+			PreparedStatement statement1 = connection.prepareStatement("SELECT id, Name, logging, password, email\r\n" + 
+					"  FROM UserInfo WHERE Name = ? and logging = ? and email = ?;");
 			statement1.setString(2, login);
 			statement1.setString(1, name);
 			statement1.setString(3, email);
 			ResultSet row1 = statement1.executeQuery();
 			
 			if (row1.next() == false) {			
-				PreparedStatement statement = connection.prepareStatement("INSERT INTO public.\"UserInfo\"(\r\n" + 
-						"            id, \"Name\", logging, password, email)\r\n" + 
-						"    VALUES ((SELECT COUNT(id) from public.\"UserInfo\") + 1, ?, ?, ?, ?);");
+				PreparedStatement statement = connection.prepareStatement("INSERT INTO UserInfo(\r\n" + 
+						"            id, Name, logging, password, email)\r\n" + 
+						"    VALUES ((SELECT COUNT(id) from UserInfo) + 1, ?, ?, ?, ?);");
 				statement.setString(1, name);
 				statement.setString(2, login);
 				statement.setString(3, password);
@@ -96,14 +101,14 @@ public class DBModel {
 		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/WebCalc", "postgres", "svd1025432");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
 			logger.info("Connection");
 			
 			java.sql.Date sqlDate = new java.sql.Date(date.getTime());
 			
-			PreparedStatement statement = connection.prepareStatement("INSERT INTO public.\"OperationHistory\"(\r\n" + 
+			PreparedStatement statement = connection.prepareStatement("INSERT INTO OperationHistory(\r\n" + 
 					"            id, operation, date, id_var_user)\r\n" + 
-					"    VALUES ((SELECT COUNT(id) from public.\"OperationHistory\") + 1, ?, ?, ?);");
+					"    VALUES ((SELECT COUNT(id) from OperationHistory) + 1, ?, ?, ?);");
 			statement.setString(1, operation);
 			statement.setDate(2, sqlDate);
 			statement.setInt(3, user.getId());
@@ -132,11 +137,11 @@ public class DBModel {
 	public ArrayList<Operation> getOperations(User User) {
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/WebCalc", "postgres", "svd1025432");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
 			logger.info("Connection");
 			
 			PreparedStatement statement = connection.prepareStatement("SELECT logging, password, operation, date\r\n" + 
-					"  FROM public.\"OperationHistory\" JOIN public.\"UserInfo\" ON \"OperationHistory\".id_var_user = \"UserInfo\".id WHERE logging = ? AND password = ?;");
+					"  FROM OperationHistory JOIN UserInfo ON OperationHistory.id_var_user = UserInfo.id WHERE logging = ? AND password = ?;");
 			statement.setString(1, User.getLogging());
 			statement.setString(2, User.getPassword());
 			
@@ -166,11 +171,11 @@ public class DBModel {
 		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/WebCalc", "postgres", "svd1025432");
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
 			logger.info("Connection");
 			
 			PreparedStatement statement = connection.prepareStatement("SELECT logging, password\r\n" + 
-					"  FROM public.\"UserInfo\" WHERE email = ?;");
+					"  FROM UserInfo WHERE email = ?;");
 			statement.setString(1, Email);
 			
 			String[] answer = new String[2];
