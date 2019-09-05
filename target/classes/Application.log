@@ -5748,3 +5748,17 @@ Only english latters
 2019-09-05 23:11:18,825 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
 2019-09-05 23:11:18,829 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
 2019-09-05 23:11:18,832 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-05 23:13:30,850 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-05 23:13:30,851 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-05 23:13:30,872 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-05 23:13:30,928 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-05 23:13:30,931 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-05 23:13:30,935 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-05 23:13:30,937 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-05 23:20:44,793 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-05 23:20:44,794 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-05 23:20:44,816 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-05 23:20:44,874 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-05 23:20:44,876 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-05 23:20:44,881 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-05 23:20:44,883 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
