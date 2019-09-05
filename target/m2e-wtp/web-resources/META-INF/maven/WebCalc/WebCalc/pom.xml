@@ -103,6 +103,11 @@
 		<artifactId>javax.servlet-api</artifactId>
 		<scope>provided</scope>
 	</dependency>
+	<dependency>
+		<groupId>javax</groupId>
+		<artifactId>javaee-web-api</artifactId>
+		<scope>provided</scope>
+	</dependency>
   </dependencies>
   <dependencyManagement>
   	<dependencies>
@@ -168,6 +173,11 @@
   			<groupId>javax.servlet</groupId>
   			<artifactId>javax.servlet-api</artifactId>
   			<version>3.0.1</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>javax</groupId>
+  			<artifactId>javaee-web-api</artifactId>
+  			<version>8.0</version>
   		</dependency>
   	</dependencies>
   </dependencyManagement>
