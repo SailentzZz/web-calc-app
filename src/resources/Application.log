@@ -6030,3 +6030,91 @@ Only english latters
 2019-09-06 05:11:13,065 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
 2019-09-06 05:11:13,070 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
 2019-09-06 05:11:13,072 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 05:51:01,927 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-06 05:51:01,927 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-06 05:51:01,952 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-06 05:51:02,004 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:51:02,006 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:51:02,011 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-06 05:51:02,014 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 05:52:53,270 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-06 05:52:53,271 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-06 05:52:53,296 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-06 05:52:53,351 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:52:53,353 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:52:53,358 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-06 05:52:53,360 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 05:53:04,239 INFO  - HV000001: Hibernate Validator 6.0.17.Final
+2019-09-06 05:53:04,248 DEBUG - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-09-06 05:53:04,252 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-06 05:53:04,253 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-06 05:53:04,253 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-06 05:53:04,253 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-06 05:53:04,442 DEBUG - Loaded expression factory via original TCCL
+2019-09-06 05:53:04,450 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-06 05:53:04,450 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-06 05:53:04,450 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-06 05:53:04,450 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-06 05:53:04,450 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-06 05:53:04,564 INFO  - Errors: 0
+2019-09-06 05:53:04,565 INFO  - Validation complete
+2019-09-06 05:53:05,131 INFO  - Connection
+2019-09-06 05:53:05,211 INFO  - Email found
+2019-09-06 05:53:05,222 INFO  - Session created
+2019-09-06 05:53:05,244 INFO  - Message is ready
+2019-09-06 05:53:05,812 ERROR - javax.mail.AuthenticationFailedException
+2019-09-06 05:59:56,249 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-06 05:59:56,249 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-06 05:59:56,274 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-06 05:59:56,329 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:59:56,332 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 05:59:56,337 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-06 05:59:56,339 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 06:00:06,382 INFO  - HV000001: Hibernate Validator 6.0.17.Final
+2019-09-06 06:00:06,395 DEBUG - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-09-06 06:00:06,400 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-06 06:00:06,401 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-06 06:00:06,401 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-06 06:00:06,401 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-06 06:00:06,600 DEBUG - Loaded expression factory via original TCCL
+2019-09-06 06:00:06,609 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-06 06:00:06,609 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-06 06:00:06,609 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-06 06:00:06,609 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-06 06:00:06,610 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-06 06:00:06,729 INFO  - Errors: 0
+2019-09-06 06:00:06,729 INFO  - Validation complete
+2019-09-06 06:00:07,314 INFO  - Connection
+2019-09-06 06:00:07,396 INFO  - Email found
+2019-09-06 06:00:07,405 INFO  - Session created
+2019-09-06 06:00:07,426 INFO  - Message is ready
+2019-09-06 06:00:15,034 ERROR - javax.mail.MessagingException: Unknown SMTP host: smtp.gmail.net;
+  nested exception is:
+	java.net.UnknownHostException: smtp.gmail.net
+2019-09-06 06:01:07,354 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-06 06:01:07,355 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-06 06:01:07,380 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-06 06:01:07,435 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 06:01:07,437 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 06:01:07,441 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-06 06:01:07,444 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 06:01:18,530 INFO  - HV000001: Hibernate Validator 6.0.17.Final
+2019-09-06 06:01:18,539 DEBUG - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-09-06 06:01:18,543 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-06 06:01:18,544 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-06 06:01:18,544 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-06 06:01:18,545 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-06 06:01:18,747 DEBUG - Loaded expression factory via original TCCL
+2019-09-06 06:01:18,754 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-06 06:01:18,755 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-06 06:01:18,755 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-06 06:01:18,755 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-06 06:01:18,755 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-06 06:01:18,868 INFO  - Errors: 0
+2019-09-06 06:01:18,868 INFO  - Validation complete
+2019-09-06 06:01:19,437 INFO  - Connection
+2019-09-06 06:01:19,516 INFO  - Email found
+2019-09-06 06:01:19,526 INFO  - Session created
+2019-09-06 06:01:19,547 INFO  - Message is ready
+2019-09-06 06:01:19,725 ERROR - com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. m10sm811018lfo.69 - gsmtp
+
