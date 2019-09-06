@@ -14,15 +14,16 @@ public class DBModel {
 	
 	Logger logger = Logger.getLogger(DBModel.class);
 	static String username = "gsbnwtwyresjgv";
-	static String password = "0a7151663758355cdd7e8672227a4e70c4898edce40251b14801536dd3d19103";
+	static String pass = "0a7151663758355cdd7e8672227a4e70c4898edce40251b14801536dd3d19103";
 	static String host = "ec2-46-137-187-23.eu-west-1.compute.amazonaws.com";
 	static String db = "d2ftsrjei473tl";
+	static String ssl = "?sslmode=require";
 	
 	
 	public User getUserValidation(String loging, String password) {		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d2ftsrjei473tl?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory", username, pass);
 			logger.info("Connection");
 			
 			PreparedStatement statement = connection.prepareStatement("SELECT id, Name, logging, password, email\r\n" + 
@@ -57,7 +58,7 @@ public class DBModel {
 	public boolean putUserDB(String name, String login, String password, String email) {
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d2ftsrjei473tl?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory", username, pass);
 			logger.info("Connection");
 			
 			PreparedStatement statement1 = connection.prepareStatement("SELECT id, Name, logging, password, email\r\n" + 
@@ -101,7 +102,7 @@ public class DBModel {
 		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d2ftsrjei473tl?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory", username, pass);
 			logger.info("Connection");
 			
 			java.sql.Date sqlDate = new java.sql.Date(date.getTime());
@@ -137,7 +138,7 @@ public class DBModel {
 	public ArrayList<Operation> getOperations(User User) {
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d2ftsrjei473tl?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory", username, pass);
 			logger.info("Connection");
 			
 			PreparedStatement statement = connection.prepareStatement("SELECT logging, password, operation, date\r\n" + 
@@ -171,7 +172,7 @@ public class DBModel {
 		
 		try {
 			Class.forName("org.postgresql.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:postgresql://" + host + ":5432/" + db + "?sslmode=require", username, password);
+			Connection connection = DriverManager.getConnection("jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d2ftsrjei473tl?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory", username, pass);
 			logger.info("Connection");
 			
 			PreparedStatement statement = connection.prepareStatement("SELECT logging, password\r\n" + 
