@@ -5914,3 +5914,6 @@ Only english latters
 2019-09-06 03:23:20,921 INFO  - Test all right
 2019-09-06 03:23:21,660 INFO  - Connection
 2019-09-06 03:23:21,805 INFO  - 1
+2019-09-06 03:58:16,433 INFO  - Test all right
+2019-09-06 03:58:17,528 INFO  - Connection
+2019-09-06 03:58:17,604 ERROR - This login/username or email is already taken

@@ -62,7 +62,7 @@ public class DBModel {
 			logger.info("Connection");
 			
 			PreparedStatement statement1 = connection.prepareStatement("SELECT id, Name, logging, password, email\r\n" + 
-					"  FROM UserInfo WHERE Name = ? and logging = ? and email = ?;");
+					"  FROM UserInfo WHERE Name = ? or logging = ? or email = ?;");
 			statement1.setString(2, login);
 			statement1.setString(1, name);
 			statement1.setString(3, email);

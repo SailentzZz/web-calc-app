@@ -54,10 +54,10 @@ public class RegServlet extends HttpServlet{
 		
 		if(validate(user, validator, req, resp)) {
 			DBModel model = new DBModel();				
-			SSLEmail msg = new SSLEmail();
-			msg.sendProps(email);
-			alert("Security email send", req, resp);
 			if(model.putUserDB(name, login, password, email)) {
+				SSLEmail msg = new SSLEmail();
+				msg.sendProps(email);
+				alert("Security email send", req, resp);
 				req.getRequestDispatcher("login.jsp").forward(req, resp);
 			} else {		
 				alert("This login/username or email is already taken", req, resp);
