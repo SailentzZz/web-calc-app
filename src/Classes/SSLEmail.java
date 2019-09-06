@@ -62,7 +62,7 @@ public class SSLEmail {
 			//override the getPasswordAuthentication method
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("proverkaemailsend@gmail.com", "trawin1999");
+				return new PasswordAuthentication("proverkaemailsend@gmail.com", "svd111000");
 			}
 		};
 		
