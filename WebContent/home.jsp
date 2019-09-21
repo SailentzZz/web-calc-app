@@ -10,7 +10,7 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Bodo - Simple One Page Personal" name="description">
     <meta content="BdgPixel" name="author">
-<title>Insert title here</title>
+<title>MyWebCalc</title>
 <link href="images/favicon.ico" rel="shortcut icon">
     
     <!--styles-->
@@ -111,7 +111,7 @@
 			</div>
   			 <div style="float: right; height: 432px;width: 468px;width: 468px; margin-right: 150px;">
   			 
-			<section id="contact" class="white-bg" style="height: 432px;width: 468px;width: 468px;">
+			<section id="contact" class="white-bg" style="height: 452px;width: 468px;width: 468px;padding-left: 20px;">
           <div class="container">
             <div class="row">		
             	<textarea disabled id="txtarea" name="Text" cols="60" rows="1" style="width: 468px; height: 220px;" readonly>
@@ -162,36 +162,37 @@
     <script src="js/typed.js" type="text/javascript"></script>
     <script src="js/main.js" type="text/javascript"></script>
 <script>
+	var comment = $.trim($('#txtarea').val());	
     function showtext(text){
-	    var text = text;
-		var showarea = document.getElementById("txtarea");
-		showarea.innerHTML+=text;
+    	if (comment.length == 0) {
+		    var text = text;
+			var showarea = document.getElementById("txtarea");
+			showarea.innerHTML+=text;
+		}
 	}
-</script>
-<script>
-function refreshPage(){
-    window.location.reload();
-} 
-</script>
-<script>
+	
+	function refreshPage() {
+    	window.location.reload();
+	} 
+	
 	function summary(){
+		var gVar = 1;
 		var showarea = document.getElementById("txtarea");
     	var text = document.getElementById('txtarea').value;
 		let value = eval(text);
 		showarea.innerHTML = text.replace(/^\n*/,'').replace(/\n*$/,'') + ' = ' + value;
 		alert("Clear all for next operation");
 	}
-</script>
-<script>
+	
 	function clearChar(){
 		var showarea = document.getElementById("txtarea");
 		showarea.innerHTML = document.getElementById('txtarea').value.slice(0, -1);
 	}
-</script>
-<script>
+	
 	function clearContents() {
 		var showarea = document.getElementById("txtarea");
 		showarea.innerHTML = "";
+		window.comment = $.trim($('#txtarea').val());
 	}
 </script>
 </body>

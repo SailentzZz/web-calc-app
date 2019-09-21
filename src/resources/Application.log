@@ -6118,3 +6118,1508 @@ Only english latters
 2019-09-06 06:01:19,547 INFO  - Message is ready
 2019-09-06 06:01:19,725 ERROR - com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. m10sm811018lfo.69 - gsmtp
 
+2019-09-06 06:09:20,682 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-06 06:09:20,683 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-06 06:09:20,708 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-06 06:09:20,763 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 06:09:20,765 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-06 06:09:20,770 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-06 06:09:20,772 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-06 06:09:31,607 INFO  - HV000001: Hibernate Validator 6.0.17.Final
+2019-09-06 06:09:31,615 DEBUG - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-09-06 06:09:31,624 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-06 06:09:31,625 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-06 06:09:31,626 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-06 06:09:31,626 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-06 06:09:31,820 DEBUG - Loaded expression factory via original TCCL
+2019-09-06 06:09:31,828 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-06 06:09:31,828 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-06 06:09:31,828 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-06 06:09:31,828 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-06 06:09:31,829 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-06 06:09:31,941 INFO  - Errors: 0
+2019-09-06 06:09:31,941 INFO  - Validation complete
+2019-09-06 06:09:32,540 INFO  - Connection
+2019-09-06 06:09:32,625 INFO  - Email found
+2019-09-06 06:09:32,635 INFO  - Session created
+2019-09-06 06:09:32,656 INFO  - Message is ready
+2019-09-06 06:09:34,088 INFO  - EMail Sent Successfully!!
+2019-09-15 17:23:29,056 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 17:23:29,056 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 17:23:29,078 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 17:23:29,111 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:23:29,113 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:23:29,118 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 17:23:29,120 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 17:24:22,299 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 17:24:22,300 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 17:24:22,323 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 17:24:22,356 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:24:22,358 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:24:22,362 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 17:24:22,364 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 17:39:15,838 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 17:39:15,839 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 17:39:15,861 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 17:39:15,915 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:39:15,918 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:39:15,922 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 17:39:15,925 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 17:40:47,966 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 17:40:47,967 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 17:40:47,990 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 17:40:48,043 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:40:48,046 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 17:40:48,050 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 17:40:48,053 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 18:31:51,158 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 18:31:51,158 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 18:31:51,180 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 18:31:51,233 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:31:51,235 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:31:51,240 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 18:31:51,242 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 18:54:14,855 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 18:54:14,855 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 18:54:14,879 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 18:54:14,935 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:54:14,938 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:54:14,942 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 18:54:14,944 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-15 18:56:48,231 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-15 18:56:48,232 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-15 18:56:48,254 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-15 18:56:48,310 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:56:48,312 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-15 18:56:48,317 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-15 18:56:48,319 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:03:29,901 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:03:29,901 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:03:29,924 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:03:29,979 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:03:29,981 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:03:29,986 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:03:29,988 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:04:22,814 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:04:22,814 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:04:22,838 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:04:22,894 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:04:22,896 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:04:22,901 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:04:22,904 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:06:00,423 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:06:00,424 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:06:00,447 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:06:00,504 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:06:00,506 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:06:00,510 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:06:00,513 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:07:52,220 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:07:52,220 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:07:52,243 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:07:52,297 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:07:52,300 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:07:52,304 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:07:52,307 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:14:30,816 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:14:30,816 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:14:30,838 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:14:30,871 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:14:30,873 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:14:30,877 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:14:30,880 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:38:43,307 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:38:43,307 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:38:43,330 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:38:43,391 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:38:43,393 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:38:43,398 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:38:43,401 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:40:49,987 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:40:49,988 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:40:50,011 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:40:50,068 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:40:50,071 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:40:50,075 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:40:50,078 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:45:01,395 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:45:01,396 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:45:01,418 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:45:01,478 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:45:01,481 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:45:01,485 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:45:01,488 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:45:03,393 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:45:03,405 DEBUG - Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+2019-09-16 00:45:03,407 DEBUG - Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+2019-09-16 00:45:03,412 DEBUG - Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+2019-09-16 00:45:03,496 INFO  - HHH000412: Hibernate Core {5.4.3.Final}
+2019-09-16 00:45:03,497 DEBUG - HHH000206: hibernate.properties not found
+2019-09-16 00:45:03,645 DEBUG - Building session factory using internal StandardServiceRegistryBuilder
+2019-09-16 00:45:03,652 DEBUG - Overriding existing service binding [org.hibernate.secure.spi.JaccService]
+2019-09-16 00:45:03,652 DEBUG - Building session factory using provided StandardServiceRegistry
+2019-09-16 00:45:03,665 DEBUG - Cannot default RegionFactory based on registered strategies as `[]` RegionFactory strategies were registered
+2019-09-16 00:45:03,666 DEBUG - Cache region factory : org.hibernate.cache.internal.NoCachingRegionFactory
+2019-09-16 00:45:03,690 INFO  - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-09-16 00:45:03,731 DEBUG - Adding type registration boolean -> org.hibernate.type.BooleanType@b5f7c8
+2019-09-16 00:45:03,731 DEBUG - Adding type registration boolean -> org.hibernate.type.BooleanType@b5f7c8
+2019-09-16 00:45:03,731 DEBUG - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@b5f7c8
+2019-09-16 00:45:03,732 DEBUG - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@1bf6d11
+2019-09-16 00:45:03,732 DEBUG - Adding type registration true_false -> org.hibernate.type.TrueFalseType@4d0864
+2019-09-16 00:45:03,733 DEBUG - Adding type registration yes_no -> org.hibernate.type.YesNoType@840957
+2019-09-16 00:45:03,734 DEBUG - Adding type registration byte -> org.hibernate.type.ByteType@ff99e1
+2019-09-16 00:45:03,734 DEBUG - Adding type registration byte -> org.hibernate.type.ByteType@ff99e1
+2019-09-16 00:45:03,734 DEBUG - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@ff99e1
+2019-09-16 00:45:03,735 DEBUG - Adding type registration character -> org.hibernate.type.CharacterType@b2b7ae
+2019-09-16 00:45:03,735 DEBUG - Adding type registration char -> org.hibernate.type.CharacterType@b2b7ae
+2019-09-16 00:45:03,736 DEBUG - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@b2b7ae
+2019-09-16 00:45:03,737 DEBUG - Adding type registration short -> org.hibernate.type.ShortType@238e7f
+2019-09-16 00:45:03,737 DEBUG - Adding type registration short -> org.hibernate.type.ShortType@238e7f
+2019-09-16 00:45:03,737 DEBUG - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@238e7f
+2019-09-16 00:45:03,738 DEBUG - Adding type registration integer -> org.hibernate.type.IntegerType@609f61
+2019-09-16 00:45:03,738 DEBUG - Adding type registration int -> org.hibernate.type.IntegerType@609f61
+2019-09-16 00:45:03,738 DEBUG - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@609f61
+2019-09-16 00:45:03,739 DEBUG - Adding type registration long -> org.hibernate.type.LongType@b04991
+2019-09-16 00:45:03,739 DEBUG - Adding type registration long -> org.hibernate.type.LongType@b04991
+2019-09-16 00:45:03,739 DEBUG - Adding type registration java.lang.Long -> org.hibernate.type.LongType@b04991
+2019-09-16 00:45:03,740 DEBUG - Adding type registration float -> org.hibernate.type.FloatType@186b41e
+2019-09-16 00:45:03,740 DEBUG - Adding type registration float -> org.hibernate.type.FloatType@186b41e
+2019-09-16 00:45:03,740 DEBUG - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@186b41e
+2019-09-16 00:45:03,741 DEBUG - Adding type registration double -> org.hibernate.type.DoubleType@4b6b5a
+2019-09-16 00:45:03,742 DEBUG - Adding type registration double -> org.hibernate.type.DoubleType@4b6b5a
+2019-09-16 00:45:03,742 DEBUG - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@4b6b5a
+2019-09-16 00:45:03,743 DEBUG - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@2baa8a
+2019-09-16 00:45:03,743 DEBUG - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@2baa8a
+2019-09-16 00:45:03,744 DEBUG - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@ec816
+2019-09-16 00:45:03,744 DEBUG - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@ec816
+2019-09-16 00:45:03,745 DEBUG - Adding type registration string -> org.hibernate.type.StringType@183edb6
+2019-09-16 00:45:03,745 DEBUG - Adding type registration java.lang.String -> org.hibernate.type.StringType@183edb6
+2019-09-16 00:45:03,746 DEBUG - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@a5f704
+2019-09-16 00:45:03,746 DEBUG - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@1e008e3
+2019-09-16 00:45:03,747 DEBUG - Adding type registration url -> org.hibernate.type.UrlType@dd8eed
+2019-09-16 00:45:03,747 DEBUG - Adding type registration java.net.URL -> org.hibernate.type.UrlType@dd8eed
+2019-09-16 00:45:03,748 DEBUG - Adding type registration Duration -> org.hibernate.type.DurationType@e6285d
+2019-09-16 00:45:03,748 DEBUG - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@e6285d
+2019-09-16 00:45:03,757 DEBUG - Adding type registration Instant -> org.hibernate.type.InstantType@12e9fe4
+2019-09-16 00:45:03,757 DEBUG - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@12e9fe4
+2019-09-16 00:45:03,758 DEBUG - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@4abcac
+2019-09-16 00:45:03,759 DEBUG - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@4abcac
+2019-09-16 00:45:03,760 DEBUG - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@1a9fcc
+2019-09-16 00:45:03,760 DEBUG - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@1a9fcc
+2019-09-16 00:45:03,761 DEBUG - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@a2eb09
+2019-09-16 00:45:03,761 DEBUG - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@a2eb09
+2019-09-16 00:45:03,762 DEBUG - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@18d2648
+2019-09-16 00:45:03,762 DEBUG - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@18d2648
+2019-09-16 00:45:03,763 DEBUG - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@ef9b6e
+2019-09-16 00:45:03,764 DEBUG - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@ef9b6e
+2019-09-16 00:45:03,766 DEBUG - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@1c5a788
+2019-09-16 00:45:03,766 DEBUG - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@1c5a788
+2019-09-16 00:45:03,768 DEBUG - Adding type registration date -> org.hibernate.type.DateType@4da281
+2019-09-16 00:45:03,768 DEBUG - Adding type registration java.sql.Date -> org.hibernate.type.DateType@4da281
+2019-09-16 00:45:03,769 DEBUG - Adding type registration time -> org.hibernate.type.TimeType@3a1ed8
+2019-09-16 00:45:03,769 DEBUG - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@3a1ed8
+2019-09-16 00:45:03,771 DEBUG - Adding type registration timestamp -> org.hibernate.type.TimestampType@28f27
+2019-09-16 00:45:03,771 DEBUG - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@28f27
+2019-09-16 00:45:03,771 DEBUG - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@28f27
+2019-09-16 00:45:03,800 DEBUG - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@1eb4ca1
+2019-09-16 00:45:03,801 DEBUG - Adding type registration calendar -> org.hibernate.type.CalendarType@4d8430
+2019-09-16 00:45:03,802 DEBUG - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@4d8430
+2019-09-16 00:45:03,802 DEBUG - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@4d8430
+2019-09-16 00:45:03,802 DEBUG - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@169927d
+2019-09-16 00:45:03,803 DEBUG - Adding type registration locale -> org.hibernate.type.LocaleType@180f700
+2019-09-16 00:45:03,803 DEBUG - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@180f700
+2019-09-16 00:45:03,804 DEBUG - Adding type registration currency -> org.hibernate.type.CurrencyType@184f7ab
+2019-09-16 00:45:03,804 DEBUG - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@184f7ab
+2019-09-16 00:45:03,805 DEBUG - Adding type registration timezone -> org.hibernate.type.TimeZoneType@1fe6226
+2019-09-16 00:45:03,805 DEBUG - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@1fe6226
+2019-09-16 00:45:03,807 DEBUG - Adding type registration class -> org.hibernate.type.ClassType@1e80d5e
+2019-09-16 00:45:03,807 DEBUG - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@1e80d5e
+2019-09-16 00:45:03,808 DEBUG - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@12ddce4
+2019-09-16 00:45:03,808 DEBUG - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@12ddce4
+2019-09-16 00:45:03,808 DEBUG - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@3574e3
+2019-09-16 00:45:03,809 DEBUG - Adding type registration binary -> org.hibernate.type.BinaryType@319460
+2019-09-16 00:45:03,809 DEBUG - Adding type registration byte[] -> org.hibernate.type.BinaryType@319460
+2019-09-16 00:45:03,809 DEBUG - Adding type registration [B -> org.hibernate.type.BinaryType@319460
+2019-09-16 00:45:03,811 DEBUG - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@9280a3
+2019-09-16 00:45:03,811 DEBUG - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@9280a3
+2019-09-16 00:45:03,811 DEBUG - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@9280a3
+2019-09-16 00:45:03,812 DEBUG - Adding type registration row_version -> org.hibernate.type.RowVersionType@68df72
+2019-09-16 00:45:03,812 DEBUG - Adding type registration image -> org.hibernate.type.ImageType@20188d
+2019-09-16 00:45:03,813 DEBUG - Adding type registration characters -> org.hibernate.type.CharArrayType@8a5a0e
+2019-09-16 00:45:03,813 DEBUG - Adding type registration char[] -> org.hibernate.type.CharArrayType@8a5a0e
+2019-09-16 00:45:03,813 DEBUG - Adding type registration [C -> org.hibernate.type.CharArrayType@8a5a0e
+2019-09-16 00:45:03,814 DEBUG - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@11ca4b3
+2019-09-16 00:45:03,814 DEBUG - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@11ca4b3
+2019-09-16 00:45:03,815 DEBUG - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@11ca4b3
+2019-09-16 00:45:03,815 DEBUG - Adding type registration text -> org.hibernate.type.TextType@116ae26
+2019-09-16 00:45:03,815 DEBUG - Adding type registration ntext -> org.hibernate.type.NTextType@a8b1e
+2019-09-16 00:45:03,817 DEBUG - Adding type registration blob -> org.hibernate.type.BlobType@1a7ccd6
+2019-09-16 00:45:03,817 DEBUG - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@1a7ccd6
+2019-09-16 00:45:03,818 DEBUG - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@1a2e4ed
+2019-09-16 00:45:03,819 DEBUG - Adding type registration clob -> org.hibernate.type.ClobType@210809
+2019-09-16 00:45:03,819 DEBUG - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@210809
+2019-09-16 00:45:03,820 DEBUG - Adding type registration nclob -> org.hibernate.type.NClobType@e08b0
+2019-09-16 00:45:03,821 DEBUG - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@e08b0
+2019-09-16 00:45:03,821 DEBUG - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@ebdb94
+2019-09-16 00:45:03,821 DEBUG - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@151b0f6
+2019-09-16 00:45:03,823 DEBUG - Adding type registration serializable -> org.hibernate.type.SerializableType@96088a
+2019-09-16 00:45:03,826 DEBUG - Adding type registration object -> org.hibernate.type.ObjectType@11c9a3a
+2019-09-16 00:45:03,826 DEBUG - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@11c9a3a
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@1d7555e
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@bdd14
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@2bfd87
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@1b4f6be
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@a35b3
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@dfa85b
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@1cdaf42
+2019-09-16 00:45:03,827 DEBUG - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@1b4b703
+2019-09-16 00:45:03,855 DEBUG - Registering IdentifierGenerator strategy [uuid2] -> [org.hibernate.id.UUIDGenerator]
+2019-09-16 00:45:03,856 DEBUG - Registering IdentifierGenerator strategy [guid] -> [org.hibernate.id.GUIDGenerator]
+2019-09-16 00:45:03,857 DEBUG - Registering IdentifierGenerator strategy [uuid] -> [org.hibernate.id.UUIDHexGenerator]
+2019-09-16 00:45:03,857 DEBUG - Registering IdentifierGenerator strategy [uuid.hex] -> [org.hibernate.id.UUIDHexGenerator]
+2019-09-16 00:45:03,857 DEBUG - Registering IdentifierGenerator strategy [assigned] -> [org.hibernate.id.Assigned]
+2019-09-16 00:45:03,859 DEBUG - Registering IdentifierGenerator strategy [identity] -> [org.hibernate.id.IdentityGenerator]
+2019-09-16 00:45:03,859 DEBUG - Registering IdentifierGenerator strategy [select] -> [org.hibernate.id.SelectGenerator]
+2019-09-16 00:45:03,860 DEBUG - Registering IdentifierGenerator strategy [sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+2019-09-16 00:45:03,861 DEBUG - Registering IdentifierGenerator strategy [seqhilo] -> [org.hibernate.id.SequenceHiLoGenerator]
+2019-09-16 00:45:03,862 DEBUG - Registering IdentifierGenerator strategy [increment] -> [org.hibernate.id.IncrementGenerator]
+2019-09-16 00:45:03,862 DEBUG - Registering IdentifierGenerator strategy [foreign] -> [org.hibernate.id.ForeignGenerator]
+2019-09-16 00:45:03,863 DEBUG - Registering IdentifierGenerator strategy [sequence-identity] -> [org.hibernate.id.SequenceIdentityGenerator]
+2019-09-16 00:45:03,863 DEBUG - Registering IdentifierGenerator strategy [enhanced-sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+2019-09-16 00:45:03,864 DEBUG - Registering IdentifierGenerator strategy [enhanced-table] -> [org.hibernate.id.enhanced.TableGenerator]
+2019-09-16 00:45:03,922 DEBUG - Database ->
+       name : PostgreSQL
+    version : 9.6.15
+      major : 9
+      minor : 6
+2019-09-16 00:45:03,922 DEBUG - Driver ->
+       name : PostgreSQL Native Driver
+    version : PostgreSQL 9.1 JDBC4 (build 901)
+      major : 9
+      minor : 1
+2019-09-16 00:45:03,922 DEBUG - JDBC version : 4.0
+2019-09-16 00:45:03,949 INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2019-09-16 00:45:03,968 DEBUG - JDBC driver metadata reported database stores quoted identifiers in neither upper, lower nor mixed case
+2019-09-16 00:45:04,081 DEBUG - Unable to use Java 1.7 Connection#getSchema : An error occurred trying to resolve the connection default schema resolver: Method org.postgresql.jdbc4.Jdbc4Connection.getSchema() is not yet implemented.
+2019-09-16 00:45:04,083 DEBUG - Unable to resolve connection default schema
+org.hibernate.HibernateException: Use of DefaultSchemaNameResolver requires Dialect to provide the proper SQL statement/command but provided Dialect [org.hibernate.dialect.PostgreSQL95Dialect] did not return anything from Dialect#getCurrentSchemaCommand
+	at org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver$SchemaNameResolverFallbackDelegate.resolveSchemaName(DefaultSchemaNameResolver.java:100)
+	at org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver.resolveSchemaName(DefaultSchemaNameResolver.java:76)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl.determineCurrentSchemaName(JdbcEnvironmentImpl.java:311)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl.<init>(JdbcEnvironmentImpl.java:266)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:114)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:175)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:83)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:473)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:84)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:689)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:615)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1821)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1758)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:830)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:400)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:291)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4817)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5283)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1423)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1413)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-09-16 00:45:04,107 DEBUG - Created database namespace [logicalName=Name{catalog=null, schema=null}, physicalName=Name{catalog=null, schema=null}]
+2019-09-16 00:45:04,113 DEBUG - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@1024e94
+2019-09-16 00:45:04,113 DEBUG - Adding type registration java.util.UUID -> org.hibernate.type.PostgresUUIDType@1024e94
+2019-09-16 00:45:04,113 DEBUG - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@12ddce4
+2019-09-16 00:45:04,115 DEBUG - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@15dd1f7] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@17cecfa]
+2019-09-16 00:45:04,188 DEBUG - Building session factory
+2019-09-16 00:45:04,189 DEBUG - SessionFactory name : null
+2019-09-16 00:45:04,189 DEBUG - Automatic flush during beforeCompletion(): enabled
+2019-09-16 00:45:04,189 DEBUG - Automatic session close at end of transaction: disabled
+2019-09-16 00:45:04,189 DEBUG - Statistics: disabled
+2019-09-16 00:45:04,189 DEBUG - Deleted entity synthetic identifier rollback: disabled
+2019-09-16 00:45:04,189 DEBUG - Default entity-mode: pojo
+2019-09-16 00:45:04,190 DEBUG - Check Nullability in Core (should be disabled when Bean Validation is on): enabled
+2019-09-16 00:45:04,190 DEBUG - Allow initialization of lazy state outside session : disabled
+2019-09-16 00:45:04,190 DEBUG - Using BatchFetchStyle : LEGACY
+2019-09-16 00:45:04,190 DEBUG - Default batch fetch size: -1
+2019-09-16 00:45:04,190 DEBUG - Maximum outer join fetch depth: null
+2019-09-16 00:45:04,190 DEBUG - Default null ordering: NONE
+2019-09-16 00:45:04,190 DEBUG - Order SQL updates by primary key: disabled
+2019-09-16 00:45:04,190 DEBUG - Order SQL inserts for batching: disabled
+2019-09-16 00:45:04,190 DEBUG - multi-tenancy strategy : NONE
+2019-09-16 00:45:04,190 DEBUG - JTA Track by Thread: enabled
+2019-09-16 00:45:04,190 DEBUG - Query language substitutions: {}
+2019-09-16 00:45:04,190 DEBUG - Named query checking : enabled
+2019-09-16 00:45:04,190 DEBUG - Second-level cache: disabled
+2019-09-16 00:45:04,191 DEBUG - Second-level query cache: disabled
+2019-09-16 00:45:04,191 DEBUG - Second-level query cache factory: null
+2019-09-16 00:45:04,191 DEBUG - Second-level cache region prefix: null
+2019-09-16 00:45:04,191 DEBUG - Optimize second-level cache for minimal puts: disabled
+2019-09-16 00:45:04,191 DEBUG - Structured second-level cache entries: disabled
+2019-09-16 00:45:04,191 DEBUG - Second-level cache direct-reference entries: disabled
+2019-09-16 00:45:04,191 DEBUG - Automatic eviction of collection cache: disabled
+2019-09-16 00:45:04,191 DEBUG - JDBC batch size: 15
+2019-09-16 00:45:04,191 DEBUG - JDBC batch updates for versioned data: enabled
+2019-09-16 00:45:04,191 DEBUG - Scrollable result sets: enabled
+2019-09-16 00:45:04,191 DEBUG - Wrap result sets: disabled
+2019-09-16 00:45:04,191 DEBUG - JDBC3 getGeneratedKeys(): enabled
+2019-09-16 00:45:04,191 DEBUG - JDBC result set fetch size: null
+2019-09-16 00:45:04,191 DEBUG - Connection release mode: ON_CLOSE
+2019-09-16 00:45:04,192 DEBUG - Generate SQL with comments: disabled
+2019-09-16 00:45:04,192 DEBUG - JPA compliance - query : 
+2019-09-16 00:45:04,192 DEBUG - JPA compliance - closed-handling : 
+2019-09-16 00:45:04,192 DEBUG - JPA compliance - lists : 
+2019-09-16 00:45:04,192 DEBUG - JPA compliance - transactions : 
+2019-09-16 00:45:04,270 DEBUG - Session factory constructed with filter configurations : {}
+2019-09-16 00:45:04,270 DEBUG - Instantiating session factory with properties: {sun.desktop=windows, awt.toolkit=sun.awt.windows.WToolkit, file.encoding.pkg=sun.io, java.specification.version=1.8, sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86, hibernate.resource.beans.container=org.springframework.orm.hibernate5.SpringBeanContainer@107ecaf, hibernate.connection.handling_mode=DELAYED_ACQUISITION_AND_HOLD, sun.jnu.encoding=Cp1251, java.class.path=D:\My\Dev\apache-tomcat-8.5.38\bin\bootstrap.jar;D:\My\Dev\apache-tomcat-8.5.38\bin\tomcat-juli.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\lib\tools.jar, java.vm.vendor=Oracle Corporation, sun.arch.data.model=32, user.variant=, catalina.useNaming=true, java.vendor.url=http://java.oracle.com/, user.timezone=Europe/Moscow, os.name=Windows 7, java.vm.specification.version=1.8, sun.java.launcher=SUN_STANDARD, user.country=RU, sun.boot.library.path=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\bin, sun.java.command=org.apache.catalina.startup.Bootstrap start, sun.cpu.endian=little, user.home=C:\Users\user, user.language=ru, java.specification.vendor=Oracle Corporation, java.naming.factory.url.pkgs=org.apache.naming, java.home=C:\Program Files (x86)\Java\jdk1.8.0_172\jre, file.separator=\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, java.specification.name=Java Platform API Specification, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, package.access=sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.tomcat., package.definition=sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat., sun.boot.class.path=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\classes, user.script=, server.loader=, sun.management.compiler=HotSpot Client Compiler, java.runtime.version=1.8.0_172-b11, java.naming.factory.initial=org.apache.naming.java.javaURLContextFactory, user.name=user, path.separator=;, common.loader="D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2/lib","D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2/lib/*.jar","D:\My\Dev\apache-tomcat-8.5.38/lib","D:\My\Dev\apache-tomcat-8.5.38/lib/*.jar", os.version=6.1, java.endorsed.dirs=D:\My\Dev\apache-tomcat-8.5.38\endorsed, java.runtime.name=Java(TM) SE Runtime Environment, file.encoding=UTF-8, java.vm.name=Java HotSpot(TM) Client VM, hibernate.classLoaders=[ParallelWebappClassLoader
+  context: MySiteApp
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@ed5528
+], hibernate.current_session_context_class=org.springframework.orm.hibernate5.SpringSessionContext, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, java.io.tmpdir=c:\windows\Temp\, tomcat.util.scan.StandardJarScanFilter.jarsToScan=log4j-taglib*.jar,log4j-web*.jar,log4javascript*.jar,slf4j-taglib*.jar, catalina.home=D:\My\Dev\apache-tomcat-8.5.38, java.version=1.8.0_172, java.util.concurrent.ForkJoinPool.common.threadFactory=org.apache.catalina.startup.SafeForkJoinWorkerThreadFactory, tomcat.util.scan.StandardJarScanFilter.jarsToSkip=annotations-api.jar,ant-junit*.jar,ant-launcher.jar,ant.jar,asm-*.jar,aspectj*.jar,bootstrap.jar,catalina-ant.jar,catalina-ha.jar,catalina-jmx-remote.jar,catalina-storeconfig.jar,catalina-tribes.jar,catalina-ws.jar,catalina.jar,cglib-*.jar,cobertura-*.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-daemon.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,dom4j-*.jar,easymock-*.jar,ecj-*.jar,el-api.jar,geronimo-spec-jaxrpc*.jar,h2*.jar,hamcrest-*.jar,hibernate*.jar,httpclient*.jar,icu4j-*.jar,jasper-el.jar,jasper.jar,jaspic-api.jar,jaxb-*.jar,jaxen-*.jar,jdom-*.jar,jetty-*.jar,jmx-tools.jar,jmx.jar,jsp-api.jar,jstl.jar,jta*.jar,junit-*.jar,junit.jar,log4j*.jar,mail*.jar,objenesis-*.jar,oraclepki.jar,oro-*.jar,servlet-api-*.jar,servlet-api.jar,slf4j*.jar,taglibs-standard-spec-*.jar,tagsoup-*.jar,tomcat-api.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-i18n-en.jar,tomcat-i18n-es.jar,tomcat-i18n-fr.jar,tomcat-i18n-ja.jar,tomcat-i18n-ru.jar,tomcat-jdbc.jar,tomcat-jni.jar,tomcat-juli-adapters.jar,tomcat-juli.jar,tomcat-util-scan.jar,tomcat-util.jar,tomcat-websocket.jar,tools.jar,websocket-api.jar,wsdl4j*.jar,xercesImpl.jar,xml-apis.jar,xmlParserAPIs-*.jar,xmlParserAPIs.jar,xom-*.jar, user.dir=C:\Users\user\Desktop, os.arch=x86, java.vm.specification.name=Java Virtual Machine Specification, java.awt.printerjob=sun.awt.windows.WPrinterJob, sun.os.patch.level=Service Pack 1, catalina.base=D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2, shared.loader=, hibernate.boot.CfgXmlAccessService.key=org.hibernate.boot.cfgxml.spi.LoadedConfig@1c6e4de, wtp.deploy=D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps, java.library.path=C:\Program Files (x86)\Java\jdk1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\My\Dev\Git\cmd;D:\My\Dev\Git\mingw64\bin;D:\My\Dev\Git\usr\bin;C:\Program Files\Java\jdk1.8.0_172\bin;D:\My\Dev\DataGrip 2019.1.1\bin;C:\Users\user\AppData\Local\atom\bin;D:\My\Dev\heroku\bin;C:\Users\user\Desktop;;., java.vendor=Oracle Corporation, java.vm.info=mixed mode, sharing, java.vm.version=25.172-b11, hibernate.bytecode.use_reflection_optimizer=false, hibernate.connection.datasource=org.springframework.jdbc.datasource.DriverManagerDataSource@dfe91a, sun.io.unicode.encoding=UnicodeLittle, java.ext.dirs=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, tomcat.util.buf.StringCache.byte.enabled=true, java.class.version=52.0}
+2019-09-16 00:45:04,307 INFO  - HV000001: Hibernate Validator 6.0.17.Final
+2019-09-16 00:45:04,317 DEBUG - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2019-09-16 00:45:04,318 DEBUG - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2019-09-16 00:45:04,322 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-16 00:45:04,323 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-16 00:45:04,323 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-16 00:45:04,323 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-16 00:45:04,489 DEBUG - Loaded expression factory via original TCCL
+2019-09-16 00:45:04,496 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-16 00:45:04,496 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-16 00:45:04,496 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-16 00:45:04,496 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-16 00:45:04,496 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-16 00:45:04,502 DEBUG - Skipping JACC integration as it was not enabled
+2019-09-16 00:45:04,503 DEBUG - Instantiated session factory
+2019-09-16 00:45:04,504 DEBUG - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@15dd1f7] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@12df38e]
+2019-09-16 00:45:04,542 DEBUG - No actions specified; doing nothing
+2019-09-16 00:45:04,542 DEBUG - No JtaPlatform was specified, checking resolver
+2019-09-16 00:45:04,543 DEBUG - No JtaPlatformResolver was specified, using default [org.hibernate.engine.transaction.jta.platform.internal.StandardJtaPlatformResolver]
+2019-09-16 00:45:04,550 DEBUG - Could not resolve JtaPlatform, using default [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-09-16 00:45:04,550 INFO  - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-09-16 00:45:04,551 DEBUG - Checking 0 named HQL queries
+2019-09-16 00:45:04,551 DEBUG - Checking 0 named SQL queries
+2019-09-16 00:45:04,553 DEBUG - Initializing SessionFactoryRegistry : org.hibernate.internal.SessionFactoryRegistry@113b919
+2019-09-16 00:45:04,553 DEBUG - Registering SessionFactory: ae205098-8368-4c46-a154-7efbd4508e64 (<unnamed>)
+2019-09-16 00:45:04,553 DEBUG - Not binding SessionFactory to JNDI, no JNDI name configured
+2019-09-16 00:45:05,701 DEBUG - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2019-09-16 00:45:05,701 DEBUG - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2019-09-16 00:45:05,704 DEBUG - Loaded expression factory via original TCCL
+2019-09-16 00:45:05,704 DEBUG - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2019-09-16 00:45:05,705 DEBUG - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2019-09-16 00:45:05,705 DEBUG - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2019-09-16 00:45:05,706 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-16 00:45:05,706 DEBUG - Trying to load META-INF/validation.xml via user class loader
+2019-09-16 00:45:05,706 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-16 00:45:05,706 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-16 00:45:05,706 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-16 00:45:05,710 DEBUG - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-16 00:45:05,710 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-16 00:45:05,711 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-16 00:45:05,711 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-16 00:45:05,711 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-16 00:48:26,769 DEBUG - HHH000031: Closing
+2019-09-16 00:48:26,769 DEBUG - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@260169] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@12df38e]
+2019-09-16 00:48:26,771 DEBUG - Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+2019-09-16 00:48:26,771 DEBUG - Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
+2019-09-16 00:48:30,848 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:48:30,849 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:48:30,872 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:48:30,928 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:48:30,931 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:48:30,936 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:48:30,938 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:54:53,626 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:54:53,627 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:54:53,648 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:54:53,681 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:54:53,683 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:54:53,688 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:54:53,690 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 00:59:03,443 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 00:59:03,444 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 00:59:03,467 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 00:59:03,501 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:59:03,503 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 00:59:03,508 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 00:59:03,511 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 01:03:51,400 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 01:03:51,400 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 01:03:51,421 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 01:03:51,457 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:03:51,460 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:03:51,464 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 01:03:51,467 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 01:43:56,869 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 01:43:56,869 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 01:43:56,893 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 01:43:56,927 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:43:56,929 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:43:56,933 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 01:43:56,935 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 01:46:22,913 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 01:46:22,914 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 01:46:22,936 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 01:46:22,969 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:46:22,971 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:46:22,975 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 01:46:22,978 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 01:48:51,793 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 01:48:51,793 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 01:48:51,817 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 01:48:51,852 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:48:51,854 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 01:48:51,858 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 01:48:51,861 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 02:16:33,189 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 02:16:33,189 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 02:16:33,210 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 02:16:33,244 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:16:33,246 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:16:33,250 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 02:16:33,252 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 02:19:02,097 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 02:19:02,098 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 02:19:02,119 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 02:19:02,152 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:19:02,154 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:19:02,158 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 02:19:02,160 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 02:38:50,743 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 02:38:50,743 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 02:38:50,764 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 02:38:50,796 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:38:50,800 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:38:50,805 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 02:38:50,808 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 02:43:24,878 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 02:43:24,879 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 02:43:24,900 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 02:43:24,935 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:43:24,937 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 02:43:24,941 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 02:43:24,943 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 03:04:54,432 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 03:04:54,432 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 03:04:54,454 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 03:04:54,490 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:04:54,492 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:04:54,496 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 03:04:54,498 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 03:12:43,866 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 03:12:43,866 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 03:12:43,887 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 03:12:43,924 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:12:43,928 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:12:43,933 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 03:12:43,935 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 03:30:21,775 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 03:30:21,776 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 03:30:21,799 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 03:30:21,831 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:30:21,833 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:30:21,837 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 03:30:21,840 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 03:33:33,835 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 03:33:33,835 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 03:33:33,856 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 03:33:33,891 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:33:33,893 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 03:33:33,897 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 03:33:33,899 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 04:15:30,223 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 04:15:30,224 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 04:15:30,245 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 04:15:30,278 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 04:15:30,280 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 04:15:30,284 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 04:15:30,287 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 04:15:53,784 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 04:15:53,784 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-16 04:15:53,808 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-16 04:15:53,841 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 04:15:53,843 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-16 04:15:53,847 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-16 04:15:53,850 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-16 06:09:14,263 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-16 06:09:14,264 INFO  - HV000001: Hibernate Validator 6.0.8.Final
+2019-09-16 06:09:14,274 DEBUG - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2019-09-16 06:09:14,275 DEBUG - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2019-09-16 06:09:14,276 DEBUG - Unable to load or instantiate JPA aware resolver org.hibernate.validator.internal.engine.resolver.JPATraversableResolver. All properties will per default be traversable.
+2019-09-16 06:09:14,288 DEBUG - Loaded expression factory via original TCCL
+2019-09-16 06:09:14,288 DEBUG - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2019-09-16 06:09:14,289 DEBUG - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2019-09-16 06:09:14,290 DEBUG - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2019-09-16 06:09:14,297 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-16 06:09:14,298 DEBUG - Trying to load META-INF/validation.xml via user class loader
+2019-09-16 06:09:14,299 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-16 06:09:14,299 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-16 06:09:14,299 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-16 06:09:14,451 DEBUG - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-16 06:09:14,451 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-16 06:09:14,451 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-16 06:09:14,452 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-16 06:09:14,452 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-16 06:09:14,651 DEBUG - Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+2019-09-16 06:09:14,654 DEBUG - Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+2019-09-16 06:09:14,659 DEBUG - Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+2019-09-16 06:09:14,744 INFO  - HHH000412: Hibernate Core {5.3.3.Final}
+2019-09-16 06:09:14,746 INFO  - HHH000206: hibernate.properties not found
+2019-09-16 06:09:14,821 DEBUG - Building session factory using internal StandardServiceRegistryBuilder
+2019-09-16 06:09:14,829 DEBUG - Overriding existing service binding [org.hibernate.secure.spi.JaccService]
+2019-09-16 06:09:14,829 DEBUG - Building session factory using provided StandardServiceRegistry
+2019-09-16 06:09:14,843 DEBUG - Cannot default RegionFactory based on registered strategies as `[]` RegionFactory strategies were registered
+2019-09-16 06:09:14,844 DEBUG - Cache region factory : org.hibernate.cache.internal.NoCachingRegionFactory
+2019-09-16 06:09:14,859 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-09-16 06:09:14,901 DEBUG - Adding type registration boolean -> org.hibernate.type.BooleanType@6359ad
+2019-09-16 06:09:14,901 DEBUG - Adding type registration boolean -> org.hibernate.type.BooleanType@6359ad
+2019-09-16 06:09:14,901 DEBUG - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@6359ad
+2019-09-16 06:09:14,902 DEBUG - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@e869
+2019-09-16 06:09:14,902 DEBUG - Adding type registration true_false -> org.hibernate.type.TrueFalseType@e5a463
+2019-09-16 06:09:14,903 DEBUG - Adding type registration yes_no -> org.hibernate.type.YesNoType@1d4d828
+2019-09-16 06:09:14,904 DEBUG - Adding type registration byte -> org.hibernate.type.ByteType@1288bd2
+2019-09-16 06:09:14,904 DEBUG - Adding type registration byte -> org.hibernate.type.ByteType@1288bd2
+2019-09-16 06:09:14,904 DEBUG - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@1288bd2
+2019-09-16 06:09:14,905 DEBUG - Adding type registration character -> org.hibernate.type.CharacterType@17ecec0
+2019-09-16 06:09:14,905 DEBUG - Adding type registration char -> org.hibernate.type.CharacterType@17ecec0
+2019-09-16 06:09:14,905 DEBUG - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@17ecec0
+2019-09-16 06:09:14,906 DEBUG - Adding type registration short -> org.hibernate.type.ShortType@5ce996
+2019-09-16 06:09:14,906 DEBUG - Adding type registration short -> org.hibernate.type.ShortType@5ce996
+2019-09-16 06:09:14,906 DEBUG - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@5ce996
+2019-09-16 06:09:14,907 DEBUG - Adding type registration integer -> org.hibernate.type.IntegerType@1e1484
+2019-09-16 06:09:14,908 DEBUG - Adding type registration int -> org.hibernate.type.IntegerType@1e1484
+2019-09-16 06:09:14,908 DEBUG - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@1e1484
+2019-09-16 06:09:14,909 DEBUG - Adding type registration long -> org.hibernate.type.LongType@10988cb
+2019-09-16 06:09:14,909 DEBUG - Adding type registration long -> org.hibernate.type.LongType@10988cb
+2019-09-16 06:09:14,909 DEBUG - Adding type registration java.lang.Long -> org.hibernate.type.LongType@10988cb
+2019-09-16 06:09:14,910 DEBUG - Adding type registration float -> org.hibernate.type.FloatType@4f26a7
+2019-09-16 06:09:14,910 DEBUG - Adding type registration float -> org.hibernate.type.FloatType@4f26a7
+2019-09-16 06:09:14,910 DEBUG - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@4f26a7
+2019-09-16 06:09:14,911 DEBUG - Adding type registration double -> org.hibernate.type.DoubleType@1c456b6
+2019-09-16 06:09:14,911 DEBUG - Adding type registration double -> org.hibernate.type.DoubleType@1c456b6
+2019-09-16 06:09:14,911 DEBUG - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@1c456b6
+2019-09-16 06:09:14,912 DEBUG - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@1d4f39e
+2019-09-16 06:09:14,912 DEBUG - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@1d4f39e
+2019-09-16 06:09:14,913 DEBUG - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@1bafa4e
+2019-09-16 06:09:14,913 DEBUG - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@1bafa4e
+2019-09-16 06:09:14,914 DEBUG - Adding type registration string -> org.hibernate.type.StringType@1a8c2ac
+2019-09-16 06:09:14,914 DEBUG - Adding type registration java.lang.String -> org.hibernate.type.StringType@1a8c2ac
+2019-09-16 06:09:14,915 DEBUG - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@139733d
+2019-09-16 06:09:14,915 DEBUG - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@7f23ba
+2019-09-16 06:09:14,916 DEBUG - Adding type registration url -> org.hibernate.type.UrlType@24251d
+2019-09-16 06:09:14,916 DEBUG - Adding type registration java.net.URL -> org.hibernate.type.UrlType@24251d
+2019-09-16 06:09:14,917 DEBUG - Adding type registration Duration -> org.hibernate.type.DurationType@100fde5
+2019-09-16 06:09:14,918 DEBUG - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@100fde5
+2019-09-16 06:09:14,919 DEBUG - Adding type registration Instant -> org.hibernate.type.InstantType@1dfb80f
+2019-09-16 06:09:14,919 DEBUG - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@1dfb80f
+2019-09-16 06:09:14,920 DEBUG - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@18242cf
+2019-09-16 06:09:14,920 DEBUG - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@18242cf
+2019-09-16 06:09:14,921 DEBUG - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@663f07
+2019-09-16 06:09:14,922 DEBUG - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@663f07
+2019-09-16 06:09:14,923 DEBUG - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@11aae08
+2019-09-16 06:09:14,923 DEBUG - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@11aae08
+2019-09-16 06:09:14,924 DEBUG - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@5d208e
+2019-09-16 06:09:14,924 DEBUG - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@5d208e
+2019-09-16 06:09:14,925 DEBUG - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@1d2985d
+2019-09-16 06:09:14,925 DEBUG - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@1d2985d
+2019-09-16 06:09:14,926 DEBUG - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@11ba5d7
+2019-09-16 06:09:14,927 DEBUG - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@11ba5d7
+2019-09-16 06:09:14,928 DEBUG - Adding type registration date -> org.hibernate.type.DateType@a84390
+2019-09-16 06:09:14,928 DEBUG - Adding type registration java.sql.Date -> org.hibernate.type.DateType@a84390
+2019-09-16 06:09:14,929 DEBUG - Adding type registration time -> org.hibernate.type.TimeType@47045d
+2019-09-16 06:09:14,929 DEBUG - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@47045d
+2019-09-16 06:09:14,930 DEBUG - Adding type registration timestamp -> org.hibernate.type.TimestampType@1ff7de0
+2019-09-16 06:09:14,931 DEBUG - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1ff7de0
+2019-09-16 06:09:14,931 DEBUG - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1ff7de0
+2019-09-16 06:09:14,932 DEBUG - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@66087c
+2019-09-16 06:09:14,933 DEBUG - Adding type registration calendar -> org.hibernate.type.CalendarType@3f1d5f
+2019-09-16 06:09:14,933 DEBUG - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@3f1d5f
+2019-09-16 06:09:14,933 DEBUG - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@3f1d5f
+2019-09-16 06:09:14,934 DEBUG - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@731b01
+2019-09-16 06:09:14,935 DEBUG - Adding type registration locale -> org.hibernate.type.LocaleType@b45b6
+2019-09-16 06:09:14,935 DEBUG - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@b45b6
+2019-09-16 06:09:14,936 DEBUG - Adding type registration currency -> org.hibernate.type.CurrencyType@2e5262
+2019-09-16 06:09:14,936 DEBUG - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@2e5262
+2019-09-16 06:09:14,937 DEBUG - Adding type registration timezone -> org.hibernate.type.TimeZoneType@13a6611
+2019-09-16 06:09:14,937 DEBUG - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@13a6611
+2019-09-16 06:09:14,938 DEBUG - Adding type registration class -> org.hibernate.type.ClassType@16fb33f
+2019-09-16 06:09:14,938 DEBUG - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@16fb33f
+2019-09-16 06:09:14,939 DEBUG - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@8e712a
+2019-09-16 06:09:14,939 DEBUG - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@8e712a
+2019-09-16 06:09:14,939 DEBUG - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@1157c69
+2019-09-16 06:09:14,940 DEBUG - Adding type registration binary -> org.hibernate.type.BinaryType@94dbac
+2019-09-16 06:09:14,940 DEBUG - Adding type registration byte[] -> org.hibernate.type.BinaryType@94dbac
+2019-09-16 06:09:14,941 DEBUG - Adding type registration [B -> org.hibernate.type.BinaryType@94dbac
+2019-09-16 06:09:14,942 DEBUG - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@1103303
+2019-09-16 06:09:14,942 DEBUG - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@1103303
+2019-09-16 06:09:14,942 DEBUG - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@1103303
+2019-09-16 06:09:14,943 DEBUG - Adding type registration row_version -> org.hibernate.type.RowVersionType@a19fb2
+2019-09-16 06:09:14,943 DEBUG - Adding type registration image -> org.hibernate.type.ImageType@10b1f0
+2019-09-16 06:09:14,944 DEBUG - Adding type registration characters -> org.hibernate.type.CharArrayType@a407b6
+2019-09-16 06:09:14,945 DEBUG - Adding type registration char[] -> org.hibernate.type.CharArrayType@a407b6
+2019-09-16 06:09:14,945 DEBUG - Adding type registration [C -> org.hibernate.type.CharArrayType@a407b6
+2019-09-16 06:09:14,946 DEBUG - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@60a91a
+2019-09-16 06:09:14,946 DEBUG - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@60a91a
+2019-09-16 06:09:14,946 DEBUG - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@60a91a
+2019-09-16 06:09:14,947 DEBUG - Adding type registration text -> org.hibernate.type.TextType@8fe4b1
+2019-09-16 06:09:14,947 DEBUG - Adding type registration ntext -> org.hibernate.type.NTextType@483e07
+2019-09-16 06:09:14,948 DEBUG - Adding type registration blob -> org.hibernate.type.BlobType@765ae2
+2019-09-16 06:09:14,949 DEBUG - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@765ae2
+2019-09-16 06:09:14,949 DEBUG - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@160c3a3
+2019-09-16 06:09:14,950 DEBUG - Adding type registration clob -> org.hibernate.type.ClobType@48903a
+2019-09-16 06:09:14,950 DEBUG - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@48903a
+2019-09-16 06:09:14,952 DEBUG - Adding type registration nclob -> org.hibernate.type.NClobType@40e3e2
+2019-09-16 06:09:14,952 DEBUG - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@40e3e2
+2019-09-16 06:09:15,009 DEBUG - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@fba23a
+2019-09-16 06:09:15,010 DEBUG - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@186c060
+2019-09-16 06:09:15,011 DEBUG - Adding type registration serializable -> org.hibernate.type.SerializableType@14fa356
+2019-09-16 06:09:15,015 DEBUG - Adding type registration object -> org.hibernate.type.ObjectType@15aa15e
+2019-09-16 06:09:15,015 DEBUG - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@15aa15e
+2019-09-16 06:09:15,015 DEBUG - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@693494
+2019-09-16 06:09:15,015 DEBUG - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@ab2756
+2019-09-16 06:09:15,015 DEBUG - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@72241b
+2019-09-16 06:09:15,016 DEBUG - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@14f77bc
+2019-09-16 06:09:15,016 DEBUG - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@5d3bd5
+2019-09-16 06:09:15,016 DEBUG - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@191339f
+2019-09-16 06:09:15,016 DEBUG - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@2e984a
+2019-09-16 06:09:15,016 DEBUG - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@ce5e4
+2019-09-16 06:09:15,046 DEBUG - Registering IdentifierGenerator strategy [uuid2] -> [org.hibernate.id.UUIDGenerator]
+2019-09-16 06:09:15,047 DEBUG - Registering IdentifierGenerator strategy [guid] -> [org.hibernate.id.GUIDGenerator]
+2019-09-16 06:09:15,048 DEBUG - Registering IdentifierGenerator strategy [uuid] -> [org.hibernate.id.UUIDHexGenerator]
+2019-09-16 06:09:15,048 DEBUG - Registering IdentifierGenerator strategy [uuid.hex] -> [org.hibernate.id.UUIDHexGenerator]
+2019-09-16 06:09:15,048 DEBUG - Registering IdentifierGenerator strategy [assigned] -> [org.hibernate.id.Assigned]
+2019-09-16 06:09:15,049 DEBUG - Registering IdentifierGenerator strategy [identity] -> [org.hibernate.id.IdentityGenerator]
+2019-09-16 06:09:15,050 DEBUG - Registering IdentifierGenerator strategy [select] -> [org.hibernate.id.SelectGenerator]
+2019-09-16 06:09:15,051 DEBUG - Registering IdentifierGenerator strategy [sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+2019-09-16 06:09:15,052 DEBUG - Registering IdentifierGenerator strategy [seqhilo] -> [org.hibernate.id.SequenceHiLoGenerator]
+2019-09-16 06:09:15,053 DEBUG - Registering IdentifierGenerator strategy [increment] -> [org.hibernate.id.IncrementGenerator]
+2019-09-16 06:09:15,053 DEBUG - Registering IdentifierGenerator strategy [foreign] -> [org.hibernate.id.ForeignGenerator]
+2019-09-16 06:09:15,053 DEBUG - Registering IdentifierGenerator strategy [sequence-identity] -> [org.hibernate.id.SequenceIdentityGenerator]
+2019-09-16 06:09:15,054 DEBUG - Registering IdentifierGenerator strategy [enhanced-sequence] -> [org.hibernate.id.enhanced.SequenceStyleGenerator]
+2019-09-16 06:09:15,054 DEBUG - Registering IdentifierGenerator strategy [enhanced-table] -> [org.hibernate.id.enhanced.TableGenerator]
+2019-09-16 06:09:15,126 DEBUG - Database ->
+       name : PostgreSQL
+    version : 9.6.15
+      major : 9
+      minor : 6
+2019-09-16 06:09:15,126 DEBUG - Driver ->
+       name : PostgreSQL Native Driver
+    version : PostgreSQL 9.4.1212
+      major : 9
+      minor : 4
+2019-09-16 06:09:15,126 DEBUG - JDBC version : 4.0
+2019-09-16 06:09:15,159 INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2019-09-16 06:09:15,245 DEBUG - JDBC driver metadata reported database stores quoted identifiers in neither upper, lower nor mixed case
+2019-09-16 06:09:15,258 INFO  - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2019-09-16 06:09:15,262 DEBUG - Created database namespace [logicalName=Name{catalog=null, schema=null}, physicalName=Name{catalog=null, schema=null}]
+2019-09-16 06:09:15,265 DEBUG - Adding type registration pg-uuid -> org.hibernate.type.PostgresUUIDType@1d0501d
+2019-09-16 06:09:15,265 DEBUG - Adding type registration java.util.UUID -> org.hibernate.type.PostgresUUIDType@1d0501d
+2019-09-16 06:09:15,265 INFO  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@8e712a
+2019-09-16 06:09:15,267 DEBUG - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@462e4d] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@1932d02]
+2019-09-16 06:09:15,341 DEBUG - Binding entity from annotated class: DAO.MessageBody
+2019-09-16 06:09:15,354 DEBUG - Binding column: Ejb3DiscriminatorColumn{logicalColumnName'DTYPE', discriminatorTypeName='string'}
+2019-09-16 06:09:15,362 DEBUG - Import with entity name MessageBody
+2019-09-16 06:09:15,365 DEBUG - Bind entity DAO.MessageBody on table MessageInfo
+2019-09-16 06:09:15,387 DEBUG - Binding column: Ejb3Column{table=org.hibernate.mapping.Table(MessageInfo), mappingColumn=id, insertable=true, updatable=true, unique=false}
+2019-09-16 06:09:15,392 DEBUG - MetadataSourceProcessor property id with lazy=false
+2019-09-16 06:09:15,393 DEBUG - Attempting to locate auto-apply AttributeConverter for property [DAO.MessageBody:id]
+2019-09-16 06:09:15,396 DEBUG - building SimpleValue for id
+2019-09-16 06:09:15,398 DEBUG - Building property id
+2019-09-16 06:09:15,402 DEBUG - #makeIdGenerator(org.hibernate.mapping.SimpleValue([org.hibernate.mapping.Column(id)]), id, identity, , ...)
+2019-09-16 06:09:15,402 DEBUG - Binding column: Ejb3Column{table=org.hibernate.mapping.Table(MessageInfo), mappingColumn=Email, insertable=true, updatable=true, unique=false}
+2019-09-16 06:09:15,402 DEBUG - MetadataSourceProcessor property Email with lazy=false
+2019-09-16 06:09:15,403 DEBUG - Attempting to locate auto-apply AttributeConverter for property [DAO.MessageBody:Email]
+2019-09-16 06:09:15,403 DEBUG - building SimpleValue for Email
+2019-09-16 06:09:15,403 DEBUG - Building property Email
+2019-09-16 06:09:15,403 DEBUG - Binding column: Ejb3Column{table=org.hibernate.mapping.Table(MessageInfo), mappingColumn=FromNam, insertable=true, updatable=true, unique=false}
+2019-09-16 06:09:15,403 DEBUG - MetadataSourceProcessor property FromName with lazy=false
+2019-09-16 06:09:15,403 DEBUG - Attempting to locate auto-apply AttributeConverter for property [DAO.MessageBody:FromName]
+2019-09-16 06:09:15,403 DEBUG - building SimpleValue for FromName
+2019-09-16 06:09:15,403 DEBUG - Building property FromName
+2019-09-16 06:09:15,403 DEBUG - Binding column: Ejb3Column{table=org.hibernate.mapping.Table(MessageInfo), mappingColumn=Message, insertable=true, updatable=true, unique=false}
+2019-09-16 06:09:15,403 DEBUG - MetadataSourceProcessor property Message with lazy=false
+2019-09-16 06:09:15,403 DEBUG - Attempting to locate auto-apply AttributeConverter for property [DAO.MessageBody:Message]
+2019-09-16 06:09:15,403 DEBUG - building SimpleValue for Message
+2019-09-16 06:09:15,404 DEBUG - Building property Message
+2019-09-16 06:09:15,404 DEBUG - Binding column: Ejb3Column{table=org.hibernate.mapping.Table(MessageInfo), mappingColumn=Date, insertable=true, updatable=true, unique=false}
+2019-09-16 06:09:15,404 DEBUG - MetadataSourceProcessor property date with lazy=false
+2019-09-16 06:09:15,404 DEBUG - Attempting to locate auto-apply AttributeConverter for property [DAO.MessageBody:date]
+2019-09-16 06:09:15,404 DEBUG - building SimpleValue for date
+2019-09-16 06:09:15,404 DEBUG - Building property date
+2019-09-16 06:09:15,406 DEBUG - Starting fillSimpleValue for id
+2019-09-16 06:09:15,406 DEBUG - Starting fillSimpleValue for Email
+2019-09-16 06:09:15,406 DEBUG - Starting fillSimpleValue for FromName
+2019-09-16 06:09:15,406 DEBUG - Starting fillSimpleValue for Message
+2019-09-16 06:09:15,406 DEBUG - Starting fillSimpleValue for date
+2019-09-16 06:09:15,407 DEBUG - Forcing column [id] to be non-null as it is part of the primary key for table [messageinfo]
+2019-09-16 06:09:15,436 DEBUG - Building session factory
+2019-09-16 06:09:15,437 DEBUG - SessionFactory name : null
+2019-09-16 06:09:15,437 DEBUG - Automatic flush during beforeCompletion(): enabled
+2019-09-16 06:09:15,437 DEBUG - Automatic session close at end of transaction: disabled
+2019-09-16 06:09:15,437 DEBUG - Statistics: disabled
+2019-09-16 06:09:15,437 DEBUG - Deleted entity synthetic identifier rollback: disabled
+2019-09-16 06:09:15,437 DEBUG - Default entity-mode: pojo
+2019-09-16 06:09:15,437 DEBUG - Check Nullability in Core (should be disabled when Bean Validation is on): enabled
+2019-09-16 06:09:15,437 DEBUG - Allow initialization of lazy state outside session : disabled
+2019-09-16 06:09:15,437 DEBUG - Using BatchFetchStyle : LEGACY
+2019-09-16 06:09:15,437 DEBUG - Default batch fetch size: -1
+2019-09-16 06:09:15,437 DEBUG - Maximum outer join fetch depth: null
+2019-09-16 06:09:15,437 DEBUG - Default null ordering: NONE
+2019-09-16 06:09:15,437 DEBUG - Order SQL updates by primary key: disabled
+2019-09-16 06:09:15,437 DEBUG - Order SQL inserts for batching: disabled
+2019-09-16 06:09:15,438 DEBUG - multi-tenancy strategy : NONE
+2019-09-16 06:09:15,438 DEBUG - JTA Track by Thread: enabled
+2019-09-16 06:09:15,438 DEBUG - Query language substitutions: {}
+2019-09-16 06:09:15,438 DEBUG - Named query checking : enabled
+2019-09-16 06:09:15,438 DEBUG - Second-level cache: disabled
+2019-09-16 06:09:15,438 DEBUG - Second-level query cache: disabled
+2019-09-16 06:09:15,438 DEBUG - Second-level query cache factory: null
+2019-09-16 06:09:15,438 DEBUG - Second-level cache region prefix: null
+2019-09-16 06:09:15,438 DEBUG - Optimize second-level cache for minimal puts: disabled
+2019-09-16 06:09:15,438 DEBUG - Structured second-level cache entries: disabled
+2019-09-16 06:09:15,438 DEBUG - Second-level cache direct-reference entries: disabled
+2019-09-16 06:09:15,438 DEBUG - Automatic eviction of collection cache: disabled
+2019-09-16 06:09:15,438 DEBUG - JDBC batch size: 15
+2019-09-16 06:09:15,438 DEBUG - JDBC batch updates for versioned data: enabled
+2019-09-16 06:09:15,438 DEBUG - Scrollable result sets: enabled
+2019-09-16 06:09:15,438 DEBUG - Wrap result sets: disabled
+2019-09-16 06:09:15,438 DEBUG - JDBC3 getGeneratedKeys(): enabled
+2019-09-16 06:09:15,439 DEBUG - JDBC result set fetch size: null
+2019-09-16 06:09:15,439 DEBUG - Connection release mode: ON_CLOSE
+2019-09-16 06:09:15,439 DEBUG - Generate SQL with comments: disabled
+2019-09-16 06:09:15,439 DEBUG - JPA compliance - query : 
+2019-09-16 06:09:15,439 DEBUG - JPA compliance - closed-handling : 
+2019-09-16 06:09:15,439 DEBUG - JPA compliance - lists : 
+2019-09-16 06:09:15,439 DEBUG - JPA compliance - transactions : 
+2019-09-16 06:09:15,522 DEBUG - Session factory constructed with filter configurations : {}
+2019-09-16 06:09:15,522 DEBUG - Instantiating session factory with properties: {sun.desktop=windows, awt.toolkit=sun.awt.windows.WToolkit, file.encoding.pkg=sun.io, java.specification.version=1.8, sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86, hibernate.resource.beans.container=org.springframework.orm.hibernate5.SpringBeanContainer@10163cc, hibernate.connection.handling_mode=DELAYED_ACQUISITION_AND_HOLD, sun.jnu.encoding=Cp1251, java.class.path=D:\My\Dev\apache-tomcat-9.0.24\bin\bootstrap.jar;D:\My\Dev\apache-tomcat-9.0.24\bin\tomcat-juli.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\lib\tools.jar, java.vm.vendor=Oracle Corporation, sun.arch.data.model=32, user.variant=, catalina.useNaming=true, java.vendor.url=http://java.oracle.com/, user.timezone=Europe/Moscow, os.name=Windows 7, java.vm.specification.version=1.8, sun.java.launcher=SUN_STANDARD, user.country=RU, sun.boot.library.path=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\bin, sun.java.command=org.apache.catalina.startup.Bootstrap start, sun.cpu.endian=little, user.home=C:\Users\user, user.language=ru, java.specification.vendor=Oracle Corporation, java.naming.factory.url.pkgs=org.apache.naming, java.home=C:\Program Files (x86)\Java\jdk1.8.0_172\jre, file.separator=\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, java.specification.name=Java Platform API Specification, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, package.access=sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.tomcat., package.definition=sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat., sun.boot.class.path=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_172\jre\classes, user.script=, server.loader=, sun.management.compiler=HotSpot Client Compiler, java.runtime.version=1.8.0_172-b11, java.naming.factory.initial=org.apache.naming.java.javaURLContextFactory, user.name=user, path.separator=;, common.loader="D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2/lib","D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2/lib/*.jar","D:\My\Dev\apache-tomcat-9.0.24/lib","D:\My\Dev\apache-tomcat-9.0.24/lib/*.jar", os.version=6.1, java.endorsed.dirs=D:\My\Dev\apache-tomcat-9.0.24\endorsed, java.runtime.name=Java(TM) SE Runtime Environment, file.encoding=UTF-8, java.vm.name=Java HotSpot(TM) Client VM, hibernate.show_sql=true, hibernate.classLoaders=[ParallelWebappClassLoader
+  context: my-simple-web-app
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@ed5528
+], hibernate.current_session_context_class=org.springframework.orm.hibernate5.SpringSessionContext, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, java.io.tmpdir=c:\windows\Temp\, tomcat.util.scan.StandardJarScanFilter.jarsToScan=log4j-taglib*.jar,log4j-web*.jar,log4javascript*.jar,slf4j-taglib*.jar, catalina.home=D:\My\Dev\apache-tomcat-9.0.24, java.version=1.8.0_172, java.util.concurrent.ForkJoinPool.common.threadFactory=org.apache.catalina.startup.SafeForkJoinWorkerThreadFactory, tomcat.util.scan.StandardJarScanFilter.jarsToSkip=annotations-api.jar,ant-junit*.jar,ant-launcher.jar,ant.jar,asm-*.jar,aspectj*.jar,bootstrap.jar,catalina-ant.jar,catalina-ha.jar,catalina-storeconfig.jar,catalina-tribes.jar,catalina.jar,cglib-*.jar,cobertura-*.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-daemon.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,dom4j-*.jar,easymock-*.jar,ecj-*.jar,el-api.jar,geronimo-spec-jaxrpc*.jar,h2*.jar,hamcrest-*.jar,hibernate*.jar,httpclient*.jar,icu4j-*.jar,jasper-el.jar,jasper.jar,jaspic-api.jar,jaxb-*.jar,jaxen-*.jar,jdom-*.jar,jetty-*.jar,jmx-tools.jar,jmx.jar,jsp-api.jar,jstl.jar,jta*.jar,junit-*.jar,junit.jar,log4j*.jar,mail*.jar,objenesis-*.jar,oraclepki.jar,oro-*.jar,servlet-api-*.jar,servlet-api.jar,slf4j*.jar,taglibs-standard-spec-*.jar,tagsoup-*.jar,tomcat-api.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-i18n-*.jar,tomcat-jdbc.jar,tomcat-jni.jar,tomcat-juli-adapters.jar,tomcat-juli.jar,tomcat-util-scan.jar,tomcat-util.jar,tomcat-websocket.jar,tools.jar,websocket-api.jar,wsdl4j*.jar,xercesImpl.jar,xml-apis.jar,xmlParserAPIs-*.jar,xmlParserAPIs.jar,xom-*.jar, user.dir=C:\Users\user\Desktop, os.arch=x86, java.vm.specification.name=Java Virtual Machine Specification, java.awt.printerjob=sun.awt.windows.WPrinterJob, sun.os.patch.level=Service Pack 1, catalina.base=D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2, shared.loader=, hibernate.boot.CfgXmlAccessService.key=org.hibernate.boot.cfgxml.spi.LoadedConfig@1149d03, wtp.deploy=D:\My\Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps, java.library.path=C:\Program Files (x86)\Java\jdk1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\7-Zip;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\My\Dev\Git\cmd;D:\My\Dev\Git\mingw64\bin;D:\My\Dev\Git\usr\bin;C:\Program Files\Java\jdk1.8.0_172\bin;D:\My\Dev\DataGrip 2019.1.1\bin;C:\Users\user\AppData\Local\atom\bin;D:\My\Dev\heroku\bin;C:\Users\user\Desktop;;., java.vendor=Oracle Corporation, java.vm.info=mixed mode, java.vm.version=25.172-b11, hibernate.bytecode.use_reflection_optimizer=false, hibernate.connection.datasource=org.springframework.jdbc.datasource.DriverManagerDataSource@15e8b6c, sun.io.unicode.encoding=UnicodeLittle, java.ext.dirs=C:\Program Files (x86)\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext, tomcat.util.buf.StringCache.byte.enabled=true, java.class.version=52.0}
+2019-09-16 06:09:15,539 DEBUG - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2019-09-16 06:09:15,539 DEBUG - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2019-09-16 06:09:15,539 DEBUG - Unable to load or instantiate JPA aware resolver org.hibernate.validator.internal.engine.resolver.JPATraversableResolver. All properties will per default be traversable.
+2019-09-16 06:09:15,539 DEBUG - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2019-09-16 06:09:15,539 DEBUG - Trying to load META-INF/validation.xml via TCCL
+2019-09-16 06:09:15,539 DEBUG - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2019-09-16 06:09:15,539 DEBUG - No META-INF/validation.xml found. Using annotation based configuration only.
+2019-09-16 06:09:15,544 DEBUG - Loaded expression factory via original TCCL
+2019-09-16 06:09:15,544 DEBUG - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2019-09-16 06:09:15,544 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2019-09-16 06:09:15,544 DEBUG - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2019-09-16 06:09:15,544 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2019-09-16 06:09:15,544 DEBUG - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2019-09-16 06:09:15,545 DEBUG - Not known whether passed class name [DAO.MessageBody] is safe
+2019-09-16 06:09:15,545 DEBUG - No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : DAO.MessageBody
+2019-09-16 06:09:15,579 DEBUG - Skipping JACC integration as it was not enabled
+2019-09-16 06:09:15,580 DEBUG - Instantiated session factory
+2019-09-16 06:09:15,580 DEBUG - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@462e4d] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@597eff]
+2019-09-16 06:09:15,629 DEBUG - Not known whether passed class name [DAO.MessageBody] is safe
+2019-09-16 06:09:15,629 DEBUG - No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : DAO.MessageBody
+2019-09-16 06:09:15,647 DEBUG - Not known whether passed class name [DAO.MessageBody] is safe
+2019-09-16 06:09:15,647 DEBUG - No temp ClassLoader provided; using live ClassLoader for loading potentially unsafe class : DAO.MessageBody
+2019-09-16 06:09:15,913 DEBUG - Static SQL for entity: DAO.MessageBody
+2019-09-16 06:09:15,913 DEBUG -  Version select: select id from MessageInfo where id =?
+2019-09-16 06:09:15,913 DEBUG -  Snapshot select: select messagebod_.id, messagebod_.Email as Email2_0_, messagebod_.FromNam as FromNam3_0_, messagebod_.Message as Message4_0_, messagebod_.Date as Date5_0_ from MessageInfo messagebod_ where messagebod_.id=?
+2019-09-16 06:09:15,914 DEBUG -  Insert 0: insert into MessageInfo (Email, FromNam, Message, Date, id) values (?, ?, ?, ?, ?)
+2019-09-16 06:09:15,914 DEBUG -  Update 0: update MessageInfo set Email=?, FromNam=?, Message=?, Date=? where id=?
+2019-09-16 06:09:15,914 DEBUG -  Delete 0: delete from MessageInfo where id=?
+2019-09-16 06:09:15,914 DEBUG -  Identity insert: insert into MessageInfo (Email, FromNam, Message, Date) values (?, ?, ?, ?)
+2019-09-16 06:09:15,939 DEBUG - Adding QuerySpace : uid = <gen:0> -> org.hibernate.loader.plan.build.internal.spaces.EntityQuerySpaceImpl@113c1bd]
+2019-09-16 06:09:15,940 DEBUG - Visiting attribute path : Email
+2019-09-16 06:09:15,940 DEBUG - Visiting attribute path : FromName
+2019-09-16 06:09:15,940 DEBUG - Visiting attribute path : Message
+2019-09-16 06:09:15,940 DEBUG - Visiting attribute path : date
+2019-09-16 06:09:15,940 DEBUG - Building LoadPlan...
+2019-09-16 06:09:15,954 DEBUG - processing queryspace <gen:0>
+2019-09-16 06:09:15,958 DEBUG - LoadPlan(entity=DAO.MessageBody)
+    - Returns
+       - EntityReturnImpl(entity=DAO.MessageBody, querySpaceUid=<gen:0>, path=DAO.MessageBody)
+    - QuerySpaces
+       - EntityQuerySpaceImpl(uid=<gen:0>, entity=DAO.MessageBody)
+          - SQL table alias mapping - messagebod0_
+          - alias suffix - 0_
+          - suffixed key columns - {id1_0_0_}
+
+2019-09-16 06:09:15,959 DEBUG - Static select for entity DAO.MessageBody [NONE]: select messagebod0_.id as id1_0_0_, messagebod0_.Email as Email2_0_0_, messagebod0_.FromNam as FromNam3_0_0_, messagebod0_.Message as Message4_0_0_, messagebod0_.Date as Date5_0_0_ from MessageInfo messagebod0_ where messagebod0_.id=?
+2019-09-16 06:09:15,960 DEBUG - Adding QuerySpace : uid = <gen:0> -> org.hibernate.loader.plan.build.internal.spaces.EntityQuerySpaceImpl@5d31db]
+2019-09-16 06:09:15,960 DEBUG - Visiting attribute path : Email
+2019-09-16 06:09:15,960 DEBUG - Visiting attribute path : FromName
+2019-09-16 06:09:15,960 DEBUG - Visiting attribute path : Message
+2019-09-16 06:09:15,960 DEBUG - Visiting attribute path : date
+2019-09-16 06:09:15,960 DEBUG - Building LoadPlan...
+2019-09-16 06:09:15,960 DEBUG - processing queryspace <gen:0>
+2019-09-16 06:09:15,960 DEBUG - LoadPlan(entity=DAO.MessageBody)
+    - Returns
+       - EntityReturnImpl(entity=DAO.MessageBody, querySpaceUid=<gen:0>, path=DAO.MessageBody)
+    - QuerySpaces
+       - EntityQuerySpaceImpl(uid=<gen:0>, entity=DAO.MessageBody)
+          - SQL table alias mapping - messagebod0_
+          - alias suffix - 0_
+          - suffixed key columns - {id1_0_0_}
+
+2019-09-16 06:09:15,960 DEBUG - Static select for entity DAO.MessageBody [READ]: select messagebod0_.id as id1_0_0_, messagebod0_.Email as Email2_0_0_, messagebod0_.FromNam as FromNam3_0_0_, messagebod0_.Message as Message4_0_0_, messagebod0_.Date as Date5_0_0_ from MessageInfo messagebod0_ where messagebod0_.id=?
+2019-09-16 06:09:15,974 DEBUG - Static select for action ACTION_MERGE on entity DAO.MessageBody: select messagebod0_.id as id1_0_0_, messagebod0_.Email as Email2_0_0_, messagebod0_.FromNam as FromNam3_0_0_, messagebod0_.Message as Message4_0_0_, messagebod0_.Date as Date5_0_0_ from MessageInfo messagebod0_ where messagebod0_.id=?
+2019-09-16 06:09:15,974 DEBUG - Static select for action ACTION_REFRESH on entity DAO.MessageBody: select messagebod0_.id as id1_0_0_, messagebod0_.Email as Email2_0_0_, messagebod0_.FromNam as FromNam3_0_0_, messagebod0_.Message as Message4_0_0_, messagebod0_.Date as Date5_0_0_ from MessageInfo messagebod0_ where messagebod0_.id=?
+2019-09-16 06:09:15,998 DEBUG - No actions specified; doing nothing
+2019-09-16 06:09:15,998 DEBUG - No JtaPlatform was specified, checking resolver
+2019-09-16 06:09:15,999 DEBUG - No JtaPlatformResolver was specified, using default [org.hibernate.engine.transaction.jta.platform.internal.StandardJtaPlatformResolver]
+2019-09-16 06:09:16,005 DEBUG - Could not resolve JtaPlatform, using default [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-09-16 06:09:16,011 DEBUG - Checking 0 named HQL queries
+2019-09-16 06:09:16,011 DEBUG - Checking 0 named SQL queries
+2019-09-16 06:09:16,013 DEBUG - Initializing SessionFactoryRegistry : org.hibernate.internal.SessionFactoryRegistry@1f7159b
+2019-09-16 06:09:16,013 DEBUG - Registering SessionFactory: 7898c06f-8f90-404a-ac84-b487b240270f (<unnamed>)
+2019-09-16 06:09:16,013 DEBUG - Not binding SessionFactory to JNDI, no JNDI name configured
+2019-09-16 06:09:49,356 DEBUG - HHH000031: Closing
+2019-09-16 06:09:49,357 DEBUG - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@1efb3b3] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@597eff]
+2019-09-16 06:09:49,358 DEBUG - Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+2019-09-16 06:09:49,359 DEBUG - Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
+2019-09-18 01:35:49,894 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:35:49,895 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:35:49,918 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:35:49,957 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:35:49,959 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:35:49,964 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:35:49,966 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:39:11,415 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:39:11,415 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:39:11,440 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:39:11,494 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:39:11,499 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:39:11,503 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:39:11,506 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:39:21,745 INFO  - 29=29
+2019-09-18 01:40:05,385 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:40:05,385 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:40:05,410 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:40:05,474 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:40:05,476 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:40:05,481 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:40:05,484 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:53:33,314 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:53:33,314 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:53:33,341 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:53:33,399 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:53:33,404 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:53:33,409 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:53:33,412 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:53:51,687 INFO  - 88=88
+2019-09-18 01:56:02,722 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:56:02,722 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:56:02,745 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:56:02,804 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:56:02,807 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:56:02,811 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:56:02,814 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:56:55,166 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:56:55,166 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:56:55,190 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:56:55,256 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:56:55,259 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:56:55,263 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:56:55,266 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:57:09,603 INFO  - 52652=52652
+2019-09-18 01:58:22,427 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:58:22,427 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:58:22,451 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:58:22,511 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:58:22,514 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:58:22,518 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:58:22,521 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 01:58:34,645 INFO  - 9526=9526
+2019-09-18 01:59:45,709 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 01:59:45,710 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 01:59:45,732 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 01:59:45,792 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:59:45,794 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 01:59:45,799 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 01:59:45,801 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:00:03,210 INFO  - 85=85
+2019-09-18 02:01:54,210 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:01:54,210 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:01:54,233 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:01:54,294 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:01:54,296 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:01:54,301 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:01:54,304 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:02:10,947 INFO  - 85=85
+2019-09-18 02:09:11,370 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:09:11,371 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:09:11,392 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:09:11,428 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:09:11,430 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:09:11,435 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:09:11,438 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:09:17,400 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:09:17,400 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:09:17,424 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:09:17,487 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:09:17,490 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:09:17,494 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:09:17,497 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:10:17,478 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:10:17,478 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:10:17,502 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:10:17,558 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:10:17,561 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:10:17,565 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:10:17,568 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:10:52,480 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:10:52,480 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:10:52,505 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:10:52,564 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:10:52,569 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:10:52,574 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:10:52,576 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:11:12,661 INFO  - 
+2019-09-18 02:11:50,571 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:11:50,571 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:11:50,594 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:11:50,655 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:11:50,657 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:11:50,662 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:11:50,665 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:12:07,812 INFO  - 
+2019-09-18 02:23:32,580 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:23:32,581 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:23:32,605 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:23:32,666 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:23:32,669 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:23:32,673 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:23:32,676 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:23:46,974 INFO  - 
+2019-09-18 02:23:56,106 INFO  - 55=55
+2019-09-18 02:24:03,708 INFO  - 55=55
+2019-09-18 02:25:25,870 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:25:25,870 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:25:25,893 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:25:25,952 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:25:25,954 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:25:25,959 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:25:25,961 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:25:39,313 INFO  - 8=8
+2019-09-18 02:26:25,922 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:26:25,923 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:26:25,946 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:26:26,005 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:26:26,007 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:26:26,012 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:26:26,014 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:27:06,827 INFO  - 8=8
+2019-09-18 02:27:18,486 INFO  - 8=8
+2019-09-18 02:27:54,467 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:27:54,467 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:27:54,492 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:27:54,548 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:27:54,553 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:27:54,558 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:27:54,560 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:28:42,357 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:28:42,357 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:28:42,381 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:28:42,440 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:28:42,443 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:28:42,447 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:28:42,450 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:28:53,368 INFO  - 6286=6286
+2019-09-18 02:29:07,931 INFO  - 6286=6286
+2019-09-18 02:30:36,716 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:30:36,716 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:30:36,739 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:30:36,799 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:30:36,801 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:30:36,806 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:30:36,809 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:30:48,155 INFO  - 93598=93598
+2019-09-18 02:33:08,335 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:33:08,336 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:33:08,359 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:33:08,418 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:33:08,420 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:33:08,425 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:33:08,428 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:33:21,248 INFO  - 86526=86526
+2019-09-18 02:33:28,335 INFO  - 5652682=5652682
+2019-09-18 02:38:31,112 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:38:31,113 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:38:31,136 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:38:31,196 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:38:31,198 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:38:31,202 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:38:31,205 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:40:31,099 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:40:31,100 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:40:31,122 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:40:31,179 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:40:31,182 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:40:31,186 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:40:31,189 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:43:20,569 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:43:20,570 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:43:20,594 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:43:20,655 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:43:20,657 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:43:20,662 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:43:20,665 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 02:46:22,062 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 02:46:22,063 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 02:46:22,085 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 02:46:22,144 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:46:22,146 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 02:46:22,151 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 02:46:22,153 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:10:38,142 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:10:38,142 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:10:38,163 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:10:38,197 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:10:38,199 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:10:38,203 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:10:38,205 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:14:47,279 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:14:47,279 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:14:47,302 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:14:47,341 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:14:47,343 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:14:47,347 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:14:47,350 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:29:09,148 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:29:09,148 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:29:09,169 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:29:09,205 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:29:09,207 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:29:09,212 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:29:09,214 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:31:31,892 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:31:31,893 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:31:31,915 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:31:31,950 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:31:31,952 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:31:31,957 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:31:31,959 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:33:07,690 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:33:07,690 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:33:07,711 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:33:07,745 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:33:07,747 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:33:07,751 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:33:07,753 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:34:41,337 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:34:41,338 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:34:41,362 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:34:41,394 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:34:41,396 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:34:41,401 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:34:41,403 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:37:19,052 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:37:19,053 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:37:19,077 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:37:19,111 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:37:19,113 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:37:19,118 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:37:19,120 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:39:17,323 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:39:17,323 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:39:17,345 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:39:17,380 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:39:17,382 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:39:17,386 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:39:17,389 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:44:20,343 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:44:20,344 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:44:20,365 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:44:20,398 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:44:20,400 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:44:20,405 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:44:20,407 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:50:58,880 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:50:58,880 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:50:58,901 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:50:58,935 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:50:58,937 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:50:58,942 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:50:58,944 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 03:57:01,743 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 03:57:01,744 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 03:57:01,766 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 03:57:01,804 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:57:01,806 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 03:57:01,811 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 03:57:01,813 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:02:19,623 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:02:19,624 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:02:19,647 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:02:19,680 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:02:19,682 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:02:19,686 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:02:19,689 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:05:16,656 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:05:16,656 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:05:16,677 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:05:16,714 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:05:16,716 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:05:16,720 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:05:16,722 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:07:51,438 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:07:51,438 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:07:51,459 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:07:51,495 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:07:51,497 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:07:51,501 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:07:51,504 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:09:03,390 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:09:03,390 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:09:03,411 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:09:03,448 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:09:03,451 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:09:03,455 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:09:03,457 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:13:33,470 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:13:33,471 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:13:33,492 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:13:33,525 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:13:33,527 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:13:33,531 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:13:33,533 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:15:35,499 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:15:35,499 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:15:35,525 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:15:35,561 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:15:35,563 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:15:35,568 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:15:35,571 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:17:44,232 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:17:44,232 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:17:44,256 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:17:44,290 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:17:44,292 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:17:44,297 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:17:44,299 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:19:25,481 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:19:25,481 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:19:25,502 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:19:25,536 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:19:25,538 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:19:25,542 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:19:25,545 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:21:05,986 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:21:05,986 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:21:06,009 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:21:06,043 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:21:06,045 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:21:06,049 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:21:06,051 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:23:26,874 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:23:26,874 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:23:26,900 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:23:26,938 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:23:26,941 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:23:26,945 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:23:26,948 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-18 04:29:33,793 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-18 04:29:33,793 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-18 04:29:33,815 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-18 04:29:33,852 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:29:33,855 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-18 04:29:33,859 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-18 04:29:33,861 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 19:53:02,370 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 19:53:02,370 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 19:53:02,393 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 19:53:02,452 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:53:02,455 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:53:02,460 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 19:53:02,463 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 19:54:19,328 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 19:54:19,328 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 19:54:19,355 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 19:54:19,388 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:54:19,390 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:54:19,394 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 19:54:19,397 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 19:57:10,709 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 19:57:10,709 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 19:57:10,730 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 19:57:10,764 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:57:10,766 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 19:57:10,770 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 19:57:10,773 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:00:09,982 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:00:09,983 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:00:10,005 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:00:10,038 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:00:10,041 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:00:10,045 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:00:10,047 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:02:32,278 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:02:32,279 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:02:32,300 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:02:32,337 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:02:32,339 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:02:32,343 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:02:32,345 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:06:38,600 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:06:38,600 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:06:38,624 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:06:38,661 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:06:38,663 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:06:38,668 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:06:38,670 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:09:22,936 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:09:22,936 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:09:22,959 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:09:22,994 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:09:22,996 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:09:23,001 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:09:23,004 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:24:59,359 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:24:59,372 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:24:59,394 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:24:59,447 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:24:59,450 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:24:59,454 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:24:59,456 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:26:10,052 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:26:10,053 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:26:10,077 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:26:10,111 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:26:10,113 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:26:10,118 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:26:10,120 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:28:17,055 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:28:17,056 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:28:17,079 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:28:17,110 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:28:17,113 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:28:17,117 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:28:17,119 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:29:35,153 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:29:35,153 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:29:35,173 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:29:35,208 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:29:35,210 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:29:35,214 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:29:35,217 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:32:20,839 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:32:20,840 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:32:20,864 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:32:20,896 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:32:20,898 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:32:20,902 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:32:20,905 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:35:54,142 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:35:54,143 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:35:54,167 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:35:54,199 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:35:54,201 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:35:54,205 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:35:54,207 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:37:37,784 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:37:37,785 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:37:37,805 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:37:37,841 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:37:37,843 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:37:37,847 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:37:37,849 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:39:10,046 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:39:10,046 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:39:10,067 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:39:10,101 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:39:10,103 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:39:10,108 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:39:10,110 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:42:13,193 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:42:13,193 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:42:13,214 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:42:13,249 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:42:13,251 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:42:13,255 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:42:13,257 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:44:20,209 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:44:20,210 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:44:20,230 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:44:20,266 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:44:20,268 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:44:20,272 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:44:20,274 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:49:41,105 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:49:41,105 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:49:41,126 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:49:41,162 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:49:41,164 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:49:41,168 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:49:41,170 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:51:16,311 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:51:16,312 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:51:16,335 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:51:16,368 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:51:16,370 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:51:16,374 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:51:16,376 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 20:55:07,710 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 20:55:07,710 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 20:55:07,734 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 20:55:07,771 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:55:07,774 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 20:55:07,779 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 20:55:07,785 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:11:04,669 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:11:04,669 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:11:04,690 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:11:04,732 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:11:04,735 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:11:04,740 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:11:04,742 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:11:38,102 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:11:38,102 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:11:38,126 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:11:38,159 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:11:38,161 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:11:38,165 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:11:38,167 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:18:01,215 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:18:01,215 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:18:01,236 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:18:01,271 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:18:01,273 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:18:01,277 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:18:01,279 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:18:55,122 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:18:55,123 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:18:55,143 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:18:55,176 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:18:55,178 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:18:55,182 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:18:55,184 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:25:03,727 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:25:03,727 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:25:03,748 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:25:03,786 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:25:03,788 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:25:03,793 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:25:03,795 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:25:29,859 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:25:29,859 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:25:29,880 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:25:29,913 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:25:29,915 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:25:29,919 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:25:29,921 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:26:00,785 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:26:00,785 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:26:00,806 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:26:00,840 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:26:00,843 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:26:00,847 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:26:00,849 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:28:27,133 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:28:27,133 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:28:27,153 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:28:27,186 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:28:27,188 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:28:27,192 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:28:27,195 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:31:14,392 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:31:14,393 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:31:14,414 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:31:14,450 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:31:14,452 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:31:14,457 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:31:14,459 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:33:42,428 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:33:42,428 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:33:42,448 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:33:42,481 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:33:42,486 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:33:42,490 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:33:42,492 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:34:00,346 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:34:00,346 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:34:00,367 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:34:00,400 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:34:00,402 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:34:00,406 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:34:00,408 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:36:53,565 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:36:53,565 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:36:53,586 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:36:53,622 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:36:53,624 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:36:53,628 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:36:53,630 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:41:51,637 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:41:51,637 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:41:51,657 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:41:51,690 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:41:51,692 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:41:51,696 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:41:51,698 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:44:42,278 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:44:42,278 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:44:42,301 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:44:42,333 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:44:42,335 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:44:42,339 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:44:42,342 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:45:04,211 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:45:04,212 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:45:04,236 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:45:04,271 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:45:04,273 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:45:04,278 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:45:04,280 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:51:51,172 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:51:51,172 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:51:51,194 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:51:51,227 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:51:51,229 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:51:51,233 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:51:51,236 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:54:11,659 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:54:11,659 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:54:11,680 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:54:11,712 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:54:11,714 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:54:11,718 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:54:11,720 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:55:47,693 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:55:47,693 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:55:47,717 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:55:47,774 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:55:47,777 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:55:47,781 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:55:47,784 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found
+2019-09-19 21:57:35,988 DEBUG - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-09-19 21:57:35,989 INFO  - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+2019-09-19 21:57:36,012 INFO  - WELD-000900: 3.1.2 (Final)
+2019-09-19 21:57:36,073 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:57:36,075 DEBUG - WELD-ENV-000030: Cannot load class using the ResourceLoader: org.jboss.jandex.Index
+2019-09-19 21:57:36,080 DEBUG - WELD-ENV-000024: Archive isolation enabled - creating multiple isolated bean archives if needed
+2019-09-19 21:57:36,082 WARN  - WELD-ENV-000028: Weld initialization skipped - no bean archive found

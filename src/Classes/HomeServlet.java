@@ -43,6 +43,7 @@ public class HomeServlet extends HttpServlet{
 			model.putOperation(user, text, new Date());
 			ArrayList<Operation> answer = model.getOperations(user);
 			Collections.reverse(answer);
+			req.setAttribute("value", 1);
 			req.setAttribute("answer", answer);
 			req.setAttribute("textValue", text);		
 			req.getRequestDispatcher("home.jsp").forward(req, resp);

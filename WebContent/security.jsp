@@ -22,7 +22,7 @@
     <!--fonts google-->
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
-<title>Insert title here</title>
+<title>Security</title>
 </head>
 <body>
 <div id="preloader">
