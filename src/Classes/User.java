@@ -9,17 +9,17 @@ public class User {
 	
 	@NotNull(message="Name has been input")
 	@Size(min = 3, max = 12, message="Length name - max=12/min=3")
-	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english latters")
+	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english letters")
 	private String name;
 	
 	@NotNull(message="Login has been input")
 	@Size(min = 3, max = 16, message="Length login - max=16/min=3")
-	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english latters")
+	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english letters")
 	private String logging;
 	
 	@NotNull(message="Password has been input")
 	@Size(min = 3, max = 10, message="Length password - max=18/min=3")
-	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english latters")
+	@Pattern(regexp = "^[a-zA-Z0-9$@$!%*?&#^-_.+]+$", message = "Only english letters")
 	private String password;
 	
 	@NotNull(message="Email has been input")
